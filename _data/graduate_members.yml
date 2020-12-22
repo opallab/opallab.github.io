@@ -1,0 +1,56 @@
+- name: Chris Bobotsis
+  photo: Chris.jpeg
+  info: Masters student in Data Science, started September 2020
+  email: cbobotsi@uwaterloo.ca
+  number_educ: 1
+  education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
+  
+- name: <a href="https://aseemrb.me">Aseem Baranwal</a>
+  photo: Aseem.jpg
+  info: PhD student, started September 2020
+  email: aseemrb@gmail.com
+  number_educ: 2
+  education1: B.Tech. in Computer Science at the Indian Institute of Technology Jodhpur
+  education2: Masters in Computer Science at the David R. Cheriton School of Computer Science, University of Waterloo
+  
+- name: Shenghao Yang
+  photo: syang.png
+  info: PhD student, started April 2020
+  email: aseemrb@gmail.com
+  number_educ: 2
+  education1: Honors B.Sc. in Applied Mathematics, Western University
+  education2: Masters in Combinatorics and Optimization, University of Waterloo
+  
+- name: Mahdi Ramezani
+  photo: mahdi.jpg
+  info: PhD student, started Winter 2020
+  email: m7ramezani@uwaterloo.ca
+  number_educ: 2
+  education1: B.Sc. in Computer Engineering from Sharif University of Technology
+  education2: M.Sc. in Computer Engineering (major in Algorithms and Computation) from Sharif University of Technology
+  
+- name: Priyabrata Senapati
+  photo: priyabrata.jpg
+  info: PhD student, started Winter 2020
+  email: priyabrata.senapati@uwaterloo.ca
+  number_educ: 2
+  education1: B.Sc. in Mathematics, Memorial University of Newfoundland, Canada
+  education2: M.Sc. in Applied Mathematics, Ryerson University, Canada
+  
+- name: Edward Poon
+  photo: edwardpoon.jpeg
+  info: Research-based Masters student at the David R. Cheriton School of Computer Science, University of Waterloo, started Fall 2019
+  email: edward.poon@uwaterloo.ca
+  number_educ: 2
+  education1: Joint Honours BSc, Computer Science and Mathematics
+  education2: MMath, Pure Mathematics
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.opallab.ml/vacancies">openings</a> for more info
+  email: kimon.fountoulakis@uwaterloo.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

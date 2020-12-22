@@ -1,0 +1,189 @@
+- title: "Targeted Pandemic Containment Through Identifying Local Contact Network Bottlenecks"
+  image: targeted_pandemic.jpg
+  description: Decision-making about pandemic mitigation often relies upon mathematical modelling. Models of contact networks are increasingly used for these purposes, and are often appropriate for infections that spread from person to person. Real-world human contact networks are rich in structural features that influence infection transmission, such as tightly-knit local communities that are weakly connected to one another. In this paper, we propose a new flow-based edge-betweenness centrality method for detecting bottleneck edges that connect communities in contact networks. In particular, we utilize convex optimization formulations based on the idea of diffusion with p-norm network flow. Using mathematical models of COVID-19 transmission through real network data at both individual and county levels, we demonstrate that targeting bottleneck edges identified by the proposed method reduces the number of infected cases by up to 10% more than state-of-the-art edge-betweenness methods. Furthermore, we demonstrate empirically that the proposed method is orders of magnitude faster than existing methods.
+  authors: S. Yang, P. Senapati, D. Wang, C. T. Bauch, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2006.06939
+    display:  arXiv:2006.06939
+  highlight: 0
+  news2:
+
+- title: "p-Norm Flow Diffusion for Local Graph Clustering"
+  image: p_norm.jpg
+  description: Local graph clustering and the closely related seed set expansion problem are primitives on graphs that are central to a wide range of analytic and learning tasks such as local clustering, community detection, nodes ranking and feature inference. Prior work on local graph clustering mostly falls into two categories with numerical and combinatorial roots respectively. In this work, we draw inspiration from both fields and propose a family of convex optimization formulations based on the idea of diffusion with p-norm network flow for p in (1,infinity). In the context of local clustering, we characterize the optimal solutions for these optimization problems and show their usefulness in finding low conductance cuts around input seed set. In particular, we achieve quadratic approximation of conductance in the case of p=2 similar to the Cheeger-type bounds of spectral methods, constant factor approximation when p goes to infinity similar to max-flow based methods, and a smooth transition for general p values in between. Thus, our optimization formulation can be viewed as bridging the numerical and combinatorial approaches, and we can achieve the best of both worlds in terms of speed and noise robustness. We show that the proposed problem can be solved in strongly local running time for p greater or equal to 2 and conduct empirical evaluations on both synthetic and real-world graphs to illustrate our approach compares favorably with existing methods.
+  authors: K. Fountoulakis, D. Wang, S. Yang
+  link:
+    url: https://proceedings.icml.cc/static/paper_files/icml/2020/3065-Paper.pdf
+    display: International Conference on Machine Learning (ICML) 2020
+  highlight: 1
+  news2:
+
+- title: "Flow-based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance"
+  image: big_flow.jpg
+  description: Clustering points in a vector space or nodes in a graph is a ubiquitous primitive in statistical data analysis, and it is commonly used for exploratory data analysis. In practice, it is often of interest to refine or improve a given cluster that has been obtained by some other method. In this survey, we focus on principled algorithms for this cluster improvement problem. Many such cluster improvement algorithms are flow-based methods, by which we mean that operationally they require the solution of a sequence of maximum flow problems on a (typically implicitly) modified data graph. These cluster improvement algorithms are powerful, both in theory and in practice, but they have not been widely adopted for problems such as community detection, local graph clustering, semi-supervised learning, etc. Possible reasons for this are the steep learning curve for these algorithms; the lack of efficient and easy to use software; and the lack of detailed numerical experiments on real-world data that demonstrate their usefulness. Our objective here is to address these issues. To do so, we guide the reader through the whole process of understanding how to implement and apply these powerful algorithms. We present a unifying fractional programming optimization framework that permits us to distill out in a simple way the crucial components of all these algorithms. It also makes apparent similarities and differences between related methods. Viewing these cluster improvement algorithms via a fractional programming framework suggests directions for future algorithm development. Finally, we develop efficient implementations of these algorithms in our LocalGraphClustering python package, and we perform extensive numerical experiments to demonstrate the performance of these methods on social networks and image-based data graphs.
+  authors: K. Fountoulakis, M. Liu, D. F. Gleich, M. W. Mahoney
+  link:
+    url: https://arxiv.org/abs/2004.09608
+    display:  arXiv:2004.09608
+  highlight: 1
+  news2:
+  
+- title: "Statistical Guarantees for Local Graph Clustering"
+  image:
+  description:
+  authors: W. Ha, K. Fountoulakis, M. W. Mahoney
+  link:
+    url: http://proceedings.mlr.press/v108/ha20a.html
+    display:  International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
+  highlight: 0
+  news2:
+
+- title: "Parallel and Communication Avoiding Least Angle Regression"
+  image:
+  description:
+  authors: S. Das, J. Demmel, K. Fountoulakis, L. Grigori, M. W. Mahoney, S. Yang
+  link:
+    url: https://arxiv.org/abs/1905.11340
+    display:  arXiv:1905.11340
+  highlight: 0
+  news2:
+
+- title: "Locality And Structure Aware Graph Node Embedding"
+  image:
+  description:
+  authors: E. Faerman, F. Borutta, K. Fountoulakis, M. W. Mahoney
+  link:
+    url: https://ieeexplore.ieee.org/document/8609600
+    display: International Conference on Web Intelligence 2018
+  highlight: 0
+  news2:
+
+- title: "A Flexible Coordinate Descent Method"
+  image:
+  description:
+  authors: K. Fountoulakis, R. Tappenden
+  link:
+    url: https://link.springer.com/article/10.1007/s10589-018-9984-3?wt_mc:Internal.Event.1.SEM.ArticleAuthorOnlineFirst
+    display: Computational Optimization and Applications
+  highlight: 0
+  news2:
+
+- title: "Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization"
+  image:
+  description:
+  authors: A. Devarakonda, K. Fountoulakis, J. Demmel, M. Mahoney
+  link:
+    url: https://ieeexplore.ieee.org/document/8425195/?part:1
+    display:  International Parallel and Distributed Processing Symposium (IPDPS) 2018
+  highlight: 0
+  news2:
+
+- title: "Variational Perspective on Local Graph Clustering"
+  image:
+  description:
+  authors: K. Fountoulakis, F. Roosta-Khorasani, J. Shun, X. Cheng, M. Mahoney
+  link:
+    url: https://link.springer.com/article/10.1007/s10107-017-1214-8
+    display:  Mathematical Programming
+  highlight: 0
+  news2:
+
+- title: "Capacity Releasing Diffusion for Speed and Locality"
+  image:
+  description:
+  authors: D. Wang, K. Fountoulakis, M. Henzinger, M. Mahoney, S. Rao
+  link:
+    url: http://proceedings.mlr.press/v70/wang17b.html
+    display: International Conference on Machine Learning (ICML) 2017
+  highlight: 0
+  news2:
+
+- title: "Avoiding communication in primal and dual block coordinate descent methods"
+  image:
+  description:
+  authors: A. Devarakonda, K. Fountoulakis, J. Demmel, M. Mahoney
+  link:
+    url: https://epubs.siam.org/doi/abs/10.1137/17M1134433?casa_token:gTnl0wYpllAAAAAA:zWbDKDmOMWt-XbIzK4XGMj3mzEUS1s6FutK9Z0SUP_mY6MdQHGsOobO4eIiAxj-Yb05XVRHCIYY
+    display: SIAM Journal on Scientific Computing (SISC)
+  highlight: 0
+  news2:
+  
+- title: "A Randomized Rounding Algorithm for Sparse PCA"
+  image:
+  description:
+  authors: K. Fountoulakis, A. Kundu, E. M. Kontopoulou, P. Drineas
+  link:
+    url: https://dl.acm.org/doi/10.1145/3046948
+    display: ACM Transactions on Knowledge Discovery from Data
+  highlight: 0
+  news2:
+
+- title: "An Optimization Approach to Locally-Biased Graph Algorithms"
+  image:
+  description:
+  authors: K. Fountoulakis, D. Gleich, M. Mahoney
+  link:
+    url: https://ieeexplore.ieee.org/document/7828195/
+    display: Proceedings of the IEEE
+  highlight: 0
+  news2:
+
+- title: "Performance of First- and Second-Order Methods for L1-Regularized Least Squares Problems"
+  image:
+  description:
+  authors: K. Fountoulakis, J. Gondzio
+  link:
+    url: https://link.springer.com/article/10.1007/s10589-016-9853-x
+    display: Computational Optimization and Applications
+  highlight: 0
+  news2:
+
+- title: "A Second-Order Method for Strongly-Convex L1-Regularization Problems"
+  image:
+  description:
+  authors: K. Fountoulakis, J. Gondzio
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs10107-015-0875-4
+    display: Mathematical Programming
+  highlight: 0
+  news2:
+
+- title: "Parallel Local Graph Clustering"
+  image:
+  description:
+  authors: J. Shun, F. Roosta-Khorasani, K. Fountoulakis, M. Mahoney
+  link:
+    url: https://dl.acm.org/doi/10.14778/2994509.2994522
+    display: Proceedings of the VLDB Endowment (VLDB) 2016
+  highlight: 0
+  news2:
+
+- title: "A Preconditioner for a Primal-dual Newton Conjugate Gradients Method for Compressed Sensing Problems"
+  image:
+  description:
+  authors: I. Dassios, K. Fountoulakis, J. Gondzio
+  link:
+    url: https://epubs.siam.org/doi/abs/10.1137/141002062
+    display: SIAM Journal on Scientific Computing (SISC)
+  highlight: 0
+  news2:
+
+- title: "Matrix-free interior point method for compressed sensing problems"
+  image:
+  description:
+  authors: K. Fountoulakis, J. Gondzio, P. Zhlobich
+  link:
+    url: https://link.springer.com/article/10.1007/s12532-013-0063-6
+    display: Mathematical Programming Computation
+  highlight: 0
+  news2:
+
+- title: "Higher-Order Methods for Large-Scale Optimization"
+  image:
+  description:
+  authors: K. Fountoulakis
+  link:
+    url: https://era.ed.ac.uk/handle/1842/15797
+    display: Kimon Fountoulakis' PhD Thesis
+  highlight: 0
+  news2:
