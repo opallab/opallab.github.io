@@ -1,0 +1,59 @@
+%\subsection{Symbolic Numeric Computation}
+
+\bigskip
+\noindent
+\textbf{2.3. Sparse Computation}
+\bigskip
+
+%There are important applications in engineering, particularly control theory and linear systems theory, where physical models are represented as polynomials and polynomial matrices (or more generally rational functions and rational matrices). Properties of such models are then represented in terms of arithmetic in polynomial or polynomial matrix domains. However, while the polynomial algebra for such representations assume exact arithmetic, the input data is typically measured (i.e. inexact) values. For these {\em symbolic-numeric} problems \cite{corless2} the arithmetic theory needs to be properly defined, and algorithms need to be both efficient in terms of operation count and, more importantly, numerically correct. The main direction in this area is sparse interpolation and exponential approximation.
+%arithmetic with approximate rational functions. The common thread in these two topics is their relation with Prony types of problems.
+
+
+Sparse polynomial interpolation is the problem of recovering a representation of a multivariate polynomial over a basis (typically the standard power basis).  This is an inverse problem where we need to determine the parameters - exponents, coefficients, support - of the polynomial given some evaluation values.  This problem is closely connected to the shape from moments problem  in the plane \cite{MilanfarGolub} along with the sparse decomposition of a signal built as a linear mixture of complex exponentials \cite{HuaSarkar}. In these cases efficient algorithms need to depend on the number of terms in the sparse representation rather than the possible number of terms found in a dense representation. Sparse representations 
+are common in applications. For example, the recovery of low rank information from sparse sampling is at the core of the
+compressed sensing paradigm \cite{candes}.  Sparse representations pose serious issues when these inverse problem computations are done in floating point, approximate arithmetic environments. 
+
+\newpage
+\bigskip
+\noindent
+{\bf Previous Work}
+\bigskip
+
+The most significant challenge for sparse interpolation is that this is a nonlinear problem compared to the linear problem of dense interpolation. We have previously shown in [J16] that this problem is closely related to problems solved via Prony's method from 1795. This in turn allowed us to take advantage of modern numerical work by Golub et al \cite{golub1} to solve this problem via the use of generalized Hankel eigenvalues. The issue of the poor numerical conditioning of the generalized Hankel eigenvalue problem (indeed bounded below by an exponential factor) reported in  \cite{begola} was overcome by using randomization in determining sampling points. We refer the reader to 
+ \cite{potts} for other methods for solving sparse problems in numerical environments.
+%This topic is also the theme of our Dagstuhl meeting in June 2015 and a BIRS workshop in 2016.
+Sparse interpolation and exponential analysis are the themes of our Dagstuhl meeting in June 2015 and BIRS workshop in 2016.
+
+\bigskip
+\noindent
+{\bf Proposed Research}
+\bigskip
+
+Sparse interpolation is typically considered for multivariate polynomials defined over the standard polynomial basis. However, there are a number of applications where sparse representations coming from Chebyshev and Pochhammer polynomials \cite{gll2,potts2} are more useful - the former being particularly interesting as it allows for sparse modeling of fourier cosine data. We propose to address the computational challenges in finding sparse representations in other orthogonal and/or interpolation bases (e.g. \cite{corless}) over approximate floating point environments. In the short term we plan to investigate the use of structured linear algebra formulations represented in terms of Krylov type matrices. However we expect that even analysing the numerical sensitivities of this problem will be extremely challenging. 
+
+We are interested in higher dimensional versions of exponential and polynomial interpolation. The standard shape-from-moments problem reconstructs 2-D polygonal shapes from 2-D moment data. Some previous work has been done on higher dimensional shapes \cite{cuyt} but the recent paper by Gravin et al \cite{lasserre}, formulating an $n$-D shape-from-moments problem using Brion's formula to find the $n$ dimensional vertices of a polygonal object from higher dimensional moments seems most promising. A longer term challenge is to actually compute the $n$ dimension coordinates in a provably numerically stable way and to understand the conditioning issues that arise from this problem \cite{cchlc}. We propose to look at this problem by making use of tools from structured linear algebra but with the structures coming from multivariate polynomial arithmetic both for power and alternate bases. 
+%Classical structured matrices such as Hankel and Toeplitz linearly describe univariate polynomial arithmetic identities. 
+%As before, our plan is to do this for both power polynomial or exponential bases along with a number of alternate polynomial bases.
+
+\bigskip
+\noindent
+{\bf 3.   Anticipated Impact and Long Term Objectives}
+\bigskip
+  
+The proposed research in symbolic matrix algorithms can potentially provide significant advancement in symbolic solutions and properties of differential equations. Our proposed work on scalings and finite group actions should have considerable impact on the solving of multivariate polynomial and dynamical systems of equations. Similarly our work on sparse interpolation in numerical environments would have considerable impact for 
+addressing numeric issues arising in sparse problems. Our overall objective is to create tools for symbolic computation that allow computer algebra systems to be applied in practical and important problems in science and engineering. In all cases the algorithms created in this research will be implemented, usually in the Maple system, and hence have wide availability. This is consistent with what has happened in the past with the impact of such core Maple packages as Plots, PlotTools, DEtools, MatrixPolynomialAlgebra and such important functionality as symbolic indefinite integration and solving of linear differential equations.
+
+%Our second research direction in this area is the symbolic-numeric computation of rational functions. 
+%Symbolic-numeric computation with polynomials, including such operations as finding zeros and greatest common divisors has been a well studied topic over the last two decades in computer algebra. However the same cannot be said for working with rational functions. This is a bit surprising since for applications (for example function approximations or input-output problems from control theory), one typically encounters rational rather than polynomial functions. For rational functions understanding ```close'' properties involves understanding the zeros and poles of nearby rational functions. For example in the case of rational approximation, the nearby zeros and poles have significant impact on convergence and other properties.  This becomes a difficult issue when working over a numerical environment. Interestingly enough one cannot just work with symbolic-numeric arithmetic with numerators and denominators separately. Here the main issue is one of missing or spurious poles, that is, poles with a nearby zero or poles with small residuals.  Recent attempts to address the notion of closeness includes the %introduction of the 
+%concept of
+%robust rational approximants found in \cite{gonnet} and the notion of well-conditioned rational approximants from the interesting new paper \cite{matos}.
+
+%We propose two separate directions for research in this area, both with high impact and long term in nature. The measures for closeness given in \cite{matos} make use of unstructured 
+%condition numbers. We propose to replace these measures by structured condition numbers as was done earlier in case of numerically coprime polynomials \cite{coprime}. We would expect the result that the ``nearby regions''  be enlarged and the computation of the structured measures more efficient. A second problem is to change our representation for rational functions from zero-pole to partial fraction decomposition and then look for measures of closeness. We note that this would require only the poles of a rational function, which can be viewed as a Prony type of problem, and which is better understood in a numerical environment.
+
+
+
+
+%{\bf Arithmetic with Differential Operators : } 
+%Symbolic/numeric computation with differential operators considers the algebraic operations on operators having polynomial coefficients whose coefficients in turn are approximate numbers. Preliminary work defining basic operations suchas one sided GCDs have recently been presented
+%\cite{haraldson}.

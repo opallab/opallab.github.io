@@ -1,0 +1,39 @@
+
+Polynomial matrices play a significant role in the algebraic description of linear and control systems \cite{kaczorek,kailath}. Considerable previous work has been done on fast algorithms for polynomial arithmetic \cite{giorgi}, matrix normal forms \cite{villard,gupta} and order bases \cite{giorgi2}. Extensions to matrices of differential operators have proved useful for working with higher-order systems of linear differential systems \cite{barkatou,barkatou2}. The arithmetic of polynomial matrices was a major topic in my previous grant.
+
+\bigskip
+\noindent
+{\bf Previous Work}
+\bigskip
+
+During the last grant period we produced a set of near optimal, deterministic algorithms for fundamental arithmetic with polynomial matrices. The arithmetic operations included computation of products, column spaces, one-sided greatest common divisors (GCDs) and column reduced forms of matrix polynomials [C2], inverses [J1], determinants  [J2] and unimodular completions [C1]. In all cases the computations were done as modules over a ring of polynomials. The complexity in each of these cases is given by $\bigO\left(n^{\omega}s\right) $ where $\bigO$ notation is Big-$O$ with log factors omitted, $\omega$ is the exponent of matrix multiplication and $s$ is the average of the column degrees of the input matrix.  For most of these computations, the best previous algorithms were deterministic with  complexity $\bigO\left(n^{\omega + 1}d \right)$ or probabilistic with complexity $\bigO\left(n^{\omega}d \right)$. Here $d$ is the degree of the input matrix polynomial, a considerable difference in cases where the column degrees vary significantly. Our fast algorithms relied on our kernel basis algorithm given in [C4]. The key common ingredient is that fast kernel computation allows one to do efficient  {\em block elimination} of a matrix polynomial. The kernel bases determined in [C4] are in fact shifted minimal kernel bases, which means that the degrees of the basis (perhaps shifted by different values) are minimal. Fast block elimination on an input matrix allows us to eliminate and construct recursive procedures on the output while working with shifted minimal kernels allows one to control the size of the resulting recursive objects.   The fast kernel bases are recursively constructed by first finding {\em partial bases} which was done by first computing {\em order bases} or {\em sigma bases} \cite{bela1994} using the fast algorithms given in [J13,C7]. 
+%Interestingly enough, fast order basis computation also proceeds in an analgous manner, by first finding a partial order bases and then recursively extending this to a complete basis. 
+We note that, by using augmented matrices, fast kernel computation also gives fast linear solving over polynomial domains.
+
+\bigskip
+\noindent
+{\bf Proposed Research}
+\bigskip
+
+%There are a number of short term and long term projects that follow naturally from our work on efficient polynomial matrix arithmetic. 
+In the short term, for the case of coefficient domains having constant cost arithmetic, we propose to build deterministic algorithms for
+matrix normal forms, particularly Hermite and Popov normal forms \cite{popov}. At present we can triangulate a matrix polynomial efficiently with $\bigO\left(n^{\omega}s\right)$ complexity but converting the result to Hermite form or Smith form with similar complexity eludes us.  We suspect that an entirely different set of techniques will be needed to find a fast Hermite or Smith form algorithm. This also seems the case with computing a Popov normal form, which we view as the more important form for purposes of applications. We are also interested in so-called 
+{\em online} versions of our algorithms which allow for better efficiency for early termination of computations. The recent work of \cite{giorgi2} would be significant here.
+A third issue is that our current algorithms all require their input to be full rank matrices. 
+We also plan to extend our work to obtain rank sensitive algorithms whose complexity is given in terms of row, column, rank and degree variables. Some preliminary work has already been done in the PhD thesis of Zhou \cite{zhou:phd2012}.  
+%Finally the polynomial matrix arithmetic algorithms have currently been implemented to a level which correctness, but not implemented in
+%an environment that can verify their complexity. We are interested in a complete implementation of our algorithms working over environments supporting fast matrix multiplication and fast polynomial arithmetic.
+%We expect that this will likely allow us to determine the hidden log costs of our computations and hence give complexity results in terms of the more precise Big-$O$ rather than $\bigO$ form.  
+
+In the longer term we wish to carry over our ideas to other closely related domains, in particular,  matrices of integers and matrices of differential operators. This is a non-trivial task but one which would have considerable impact. Integers share many properties with polynomials, and can be represented like polynomials using a $p$-adic representation for $p$ a prime. This allows some fast algorithms for polynomials, such as the fast multiplication using FFT and the fast divide and conquer GCD computations, to also work over the integers. However for some other problems, the integer version is considerably more difficult than the corresponding polynomial version. For example, the exact version of lattice basis reduction for integers, finding a shortest lattice basis, is NP-hard, while the corresponding problem for polynomial matrices, the computation of a column reduced form, can be efficiently reduced to polynomial matrix multiplication.
+% Interestingly, shortest lattice bases and column reduced forms are both higher dimension generalizations of GCDs, and GCDs can be efficiently computed for both integers and polynomials. 
+%While the efficiency is maintained when generalizing polynomial GCD computation to higher dimensions, the efficiency is lost on the integer side. 
+Differential operators and other skew polynomials are even more closely related to polynomials and can be viewed as generalizations of polynomials but with multiplication being noncommutative. 
+We therefore expect that building efficient, deterministic algorithms in this case, %mirroring our results for polynomial matrices, 
+has a better chance of success.
+
+The fast algorithms described in the opening paragraph all work with coefficient domains which have constant cost arithmetic. We plan to focus on computations in the important and practical case where coefficient growth is a concern, as is the case for example with coefficients coming from rational numbers or from polynomial rings with parameters. 
+%We anticipate that ideas used in \cite{bela2000} should be useful her, although the linear algebra tools will need to be . 
+%Our intent is to also investigate such computations in the case where the polynomials are
+%not only in terms of the standard power basis but also when 
+%given in terms of alternative interpolation or orthogonal bases.
