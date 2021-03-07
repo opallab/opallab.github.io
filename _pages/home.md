@@ -28,9 +28,6 @@ Our work is focused in graph-based machine learning and it involves stronger con
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/local_hyper_flow.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/parallel.jpg" alt="Slide 4" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
