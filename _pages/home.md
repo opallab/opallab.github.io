@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Optimization, Analytics and Learning (OpAL) Lab is a research group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca). 
-Our work is focused on relational machine learning and it involves stronger control on optimization formulations and algorithms, as well as their parallel and communication efficient implementations. We like to view graph-based problems and procedures from an optimization perspective, although they might not always be posed that way. We are equally interested in theory and in practice. 
+The Optimization, Analytics and Learning (OpAL) Lab is a research group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca). Our work is focused on relational machine learning, which is about making predictions using multi-modal datasets that combine features and relational information among entities. Our work involves stronger control on optimization formulations and algorithms, as well as their parallel and communication efficient implementations. We are equally interested in theory and in practice. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
