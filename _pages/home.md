@@ -26,7 +26,7 @@ Our work is focused in graph-based machine learning and it involves stronger con
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/flow_paper.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/us_covid_map.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/local_hyper_flow.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/parallel.jpg" alt="Slide 4" />
