@@ -8,10 +8,10 @@ permalink: /research/
 
 # Research
 
-Our goal in OpAL is to develop and implement new optimization formulations and algorithms for relational machine learning problems. We like to view relational machine learning problems and procedures from an optimization perspective, although they might not always be posed that way. We are equally interested in theory and in practice.
+Our goal in OpAL is to develop and implement new optimization formulations and algorithms for machine learning problems on graphs. We like to view graph-based machine learning problems and procedures from an optimization perspective, although they might not always be posed that way. We are equally interested in theory and in practice.
 
-Questions of interest include: (i) what is the worst-case running time of an optimization algorithm?, (ii) what is the worst-case iteration complexity of an optimization algorithm? (iii) what are the prediction guarantees of a relational machine learning formulation? 
-(iv)  how do we parallelize optimization algorithms for relational machine learning in a communication efficient way? 
+Questions of interest include: (i) what is the worst-case running time of an optimization algorithm?, (ii) what is the worst-case iteration complexity of an optimization algorithm? (iii) what are the prediction guarantees of a graph-based machine learning model? 
+(iv)  how do we parallelize optimization algorithms for graph-based machine learning in a communication efficient way? 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/sbm-example-louvian.pdf){: style="width: 300px; float: right; border: 10px"}
 
