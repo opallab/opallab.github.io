@@ -38,7 +38,7 @@ The Optimization, Analytics and Learning (OpAL) Lab is a research group at the [
   </a>
 </div>
 
-We are located at the [University of Waterloo](https://uwaterloo.ca), a vibrant [technological hub](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular/entrepreneurship) with [Concept](https://concept.uwaterloo.ca), [Velocity](https://velocityincubator.com) and [Google](https://careers.google.com/locations/waterloo/) around the block. We are also part of the [Scientific Computation Group](https://scicom.uwaterloo.ca) and the [Waterloo Artificial Intelligence Institute](https://uwaterloo.ca/artificial-intelligence-institute/).
+We are located at the [University of Waterloo](https://uwaterloo.ca), a vibrant [technological hub](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular/entrepreneurship) with [Concept](https://concept.uwaterloo.ca), [Velocity](https://velocityincubator.com) and [Google](https://careers.google.com/locations/waterloo/) around the block. We are also part of the [Scientific Computation Group](https://scicom.uwaterloo.ca).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
