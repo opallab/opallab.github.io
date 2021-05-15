@@ -1,3 +1,11 @@
+- name: Nathaniel Brown
+  photo: no-pic.png
+  duration: January 2021 - May 2021
+  info: Undergraduate research fellow
+  email: Nathaniel.Brown@dal.ca
+  number_educ: 1
+  education1: Bachelor of Computer Science Honours, Dalhousie University
+
 - name: Chufeng Hu
   photo: chufeng.jpg
   duration: Winter 2019 - Winter 2020
@@ -13,3 +21,4 @@
   email: z229zhou@edu.uwaterloo.ca
   number_educ: 1
   education1: Bachelor in Computer Science at the David R. Cheriton School of Computer Science, University of Waterloo
+  
