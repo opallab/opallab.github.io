@@ -42,8 +42,7 @@ We are located at the [University of Waterloo](https://uwaterloo.ca), a vibrant 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-We are grateful for funding from the University of Waterloo, [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), 
-and [DARPA](https://www.darpa.mil/program/data-driven-discovery-of-models).
+We are grateful for funding from the University of Waterloo and [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Waterloo.jpg" style="width: 150px">
