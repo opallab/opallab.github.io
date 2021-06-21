@@ -48,5 +48,4 @@ and [DARPA](https://www.darpa.mil/program/data-driven-discovery-of-models).
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Waterloo.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpg" style="width: 110px">
 </figure>
