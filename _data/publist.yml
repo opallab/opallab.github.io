@@ -24,7 +24,7 @@
   authors: S. Yang, P. Senapati, D. Wang, C. T. Bauch, K. Fountoulakis
   link:
     url: https://arxiv.org/abs/2006.06939
-    display:  arXiv:2006.06939
+    display:  Accepted at PLOS Computational Biology
   highlight: 0
   news2:
 
@@ -45,6 +45,16 @@
   link:
     url: https://arxiv.org/abs/2004.09608
     display:  arXiv:2004.09608
+  highlight: 0
+  news2:
+  
+- title: "Statistical Guarantees for Local Graph Clustering (Long version at JMLR)"
+  image:
+  description:
+  authors: W. Ha, K. Fountoulakis, M. W. Mahoney
+  link:
+    url: https://jmlr.org/papers/v22/20-029.html
+    display:  Journal of Machine Learning Research
   highlight: 0
   news2:
   
