@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "OpAL Lab at Waterloo University."
+excerpt: "OpAL Lab at University of Waterloo."
 sitemap: false
 permalink: /allnews.html
 ---

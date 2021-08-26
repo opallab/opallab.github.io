@@ -1,7 +1,7 @@
 ---
 title: "OpAL Lab - Home"
 layout: homelay
-excerpt: "OpAL Lab at Waterloo University."
+excerpt: "OpAL Lab at University of Waterloo."
 sitemap: false
 permalink: /
 ---
