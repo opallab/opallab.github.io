@@ -1,12 +1,3 @@
-- name: Sina Rezazadeh Baghal
-  photo: sina.jpg
-  info: Postodoctoral Fellow, started May 2021
-  email: srezazad@uwaterloo.ca
-  number_educ: 3
-  education1: B.Sc. in Pure Mathematics, Sharif University of Technology
-  education2: M.Sc. in Pure Mathematics, Sharif University of Technology
-  education3: Ph.D. in Mathematical Optimization with <a href="https://uwaterloo.ca/scholar/vavasis">Stephen Vavasis</a>, University of Waterloo
-  
 - name: Chris Bobotsis
   photo: Chris.jpeg
   info: Masters student in Data Science, started September 2020
