@@ -1,13 +1,15 @@
 - name: Chris Bobotsis
   photo: Chris.jpeg
-  info: Masters student in Data Science, started September 2020
+  info: Masters student in Data Science
+  duration: September 2020 - Now
   email: cbobotsi@uwaterloo.ca
   number_educ: 1
   education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
   
 - name: <a href="https://aseemrb.me">Aseem Baranwal</a>
   photo: Aseem.jpg
-  info: PhD student, started September 2020
+  info: PhD student
+  duration: September 2020 - Now
   email: aseemrb@gmail.com
   number_educ: 2
   education1: B.Tech. in Computer Science at the Indian Institute of Technology Jodhpur
@@ -15,7 +17,8 @@
   
 - name: <a href="https://cs.uwaterloo.ca/~s286yang/">Shenghao Yang</a>
   photo: syang.png
-  info: PhD student, started April 2020
+  info: PhD student
+  duration: April 2020 - Now
   email: shenghao.yang@uwaterloo.ca
   number_educ: 2
   education1: Honors B.Sc. in Applied Mathematics, Western University
@@ -23,7 +26,8 @@
   
 - name: Edward Poon
   photo: edwardpoon.jpeg
-  info: Research-based Masters student at the David R. Cheriton School of Computer Science, University of Waterloo, started Fall 2019
+  info: Research-based Masters student at the David R. Cheriton School of Computer Science, University of Waterloo
+  duration: September 2019 - Now
   email: edward.poon@uwaterloo.ca
   number_educ: 2
   education1: Joint Honours BSc, Computer Science and Mathematics
