@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Jerry Huang
-  photo: dongshu.png
+  photo: no-pic.png
   duration: September 2021 - December 2021
   info: Undergraduate research fellow
   email: Njerry.huang@uwaterloo.ca
@@ -17,7 +17,7 @@
   education1: B.S.E in Software Engineering, University of Waterloo
   
 - name: Dongshu (Eric) Luo
-  photo: no-pic.png
+  photo: dongshu.png
   duration: September 2021 - December 2021
   info: Undergraduate research fellow
   email: d33luo@uwaterloo.ca
