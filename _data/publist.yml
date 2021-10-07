@@ -13,6 +13,9 @@
   slides:
     url:
     display:
+  video:
+    url:
+    display:
   
 - title: "Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization"
   image: gcn_one_layer.jpg
@@ -29,6 +32,9 @@
   slides:
     url: CAIMS2021.pdf
     display: (Slides)
+  video:
+    url:
+    display:
   
 - title: "Targeted Pandemic Containment Through Identifying Local Contact Network Bottlenecks"
   image: targeted_pandemic.jpg
@@ -43,6 +49,9 @@
     url: https://github.com/opallab/TargetedPandemicContainment
     display: (Code)
   slides:
+    url:
+    display:
+  video:
     url:
     display:
 
@@ -61,6 +70,9 @@
   slides:
     url: p-NormFlowDiffusion.pdf
     display: (Slides)
+  video:
+    url: https://www.youtube.com/watch?v=X6V11ZFCkk8&feature=emb_title
+    display: (Video)
 
 - title: "Flow-based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance"
   image: big_flow.jpg
@@ -75,6 +87,9 @@
     url: https://github.com/opallab/LocalGraphClustering
     display: (Code)
   slides:
+    url:
+    display:
+  video:
     url:
     display:
   
@@ -93,6 +108,9 @@
   slides:
     url: iccopt2019.pdf
     display: (Slides)
+  video:
+    url:
+    display:
   
 - title: "Statistical Guarantees for Local Graph Clustering"
   image:
@@ -109,6 +127,9 @@
   slides:
     url: iccopt2019.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "Parallel and Communication Avoiding Least Angle Regression"
   image:
@@ -123,6 +144,9 @@
     url:
     display:
   slides:
+    url:
+    display:
+  video:
     url:
     display:
 
@@ -141,6 +165,9 @@
   slides:
     url:
     display:
+  video:
+    url:
+    display:
 
 - title: "A Flexible Coordinate Descent Method"
   image:
@@ -157,6 +184,9 @@
   slides:
     url: rcdIMA2014.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization"
   image:
@@ -173,6 +203,9 @@
   slides:
     url: ECECRETE2018.pdf
     display: (Slides)
+  video:
+    url: https://www.youtube.com/watch?v=uElfprD9Tb8
+    display: (Video)
 
 - title: "Variational Perspective on Local Graph Clustering"
   image:
@@ -189,6 +222,9 @@
   slides:
     url: ISMP2018.pdf
     display: (Slides)
+  video:
+    url: https://www.youtube.com/watch?v=uElfprD9Tb8&t=1241s
+    display: (Video)
 
 - title: "Capacity Releasing Diffusion for Speed and Locality"
   image:
@@ -205,6 +241,9 @@
   slides:
     url:
     display:
+  video:
+    url: https://vimeo.com/238227621
+    display: (Video)
 
 - title: "Avoiding communication in primal and dual block coordinate descent methods"
   image:
@@ -221,6 +260,9 @@
   slides:
     url: ECECRETE2018.pdf
     display: (Slides)
+  video:
+    url: https://www.youtube.com/watch?v=uElfprD9Tb8
+    display: (Video)
   
 - title: "A Randomized Rounding Algorithm for Sparse PCA"
   image:
@@ -235,6 +277,9 @@
     url:
     display:
   slides:
+    url:
+    display:
+  video:
     url:
     display:
 
@@ -253,6 +298,9 @@
   slides:
     url: MMDS2016.pdf
     display: (Slides)
+  video:
+    url: https://www.youtube.com/watch?v=mf9h1-jhyos
+    display: (Video)
 
 - title: "Performance of First- and Second-Order Methods for L1-Regularized Least Squares Problems"
   image:
@@ -269,6 +317,9 @@
   slides:
     url: ismp2015.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "A Second-Order Method for Strongly-Convex L1-Regularization Problems"
   image:
@@ -285,6 +336,9 @@
   slides:
     url: NLAO14.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "Parallel Local Graph Clustering"
   image:
@@ -301,6 +355,9 @@
   slides:
     url: samsi2016.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "A Preconditioner for a Primal-dual Newton Conjugate Gradients Method for Compressed Sensing Problems"
   image:
@@ -317,6 +374,9 @@
   slides:
     url: ifors14_Kimon.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "Matrix-free interior point method for compressed sensing problems"
   image:
@@ -333,6 +393,9 @@
   slides:
     url: or54.pdf
     display: (Slides)
+  video:
+    url:
+    display:
 
 - title: "Higher-Order Methods for Large-Scale Optimization"
   image:
@@ -348,4 +411,7 @@
   slides:
     url: thesisSlides.pdf
     display: (Slides)
+  video:
+    url:
+    display:
   news2:
