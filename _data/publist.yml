@@ -34,7 +34,7 @@
   highlight: 0
   news2:
   code:
-    url:
+    url: https://github.com/opallab/TargetedPandemicContainment
     display: Code
 
 - title: "p-Norm Flow Diffusion for Local Graph Clustering"
