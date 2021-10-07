@@ -16,6 +16,9 @@
   video:
     url:
     display:
+  preprint:
+    url:
+    display:
   
 - title: "Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization"
   image: gcn_one_layer.jpg
@@ -35,6 +38,9 @@
   video:
     url: https://zoom.us/rec/play/X1FbBJiP1bLTixjmU7wBw233sutk939XulBkrY0Szes9KSNh_cFovdohKoZ-KXFaCZJ5G5yg4m5nKZol.47Ol60UmzMVLZec8?startTime=1624287370000&_x_zm_rtaid=2ArAs6KUSwiFwnA5V61cmQ.1624792221031.e0fb3030146eeed7cee824bfc92e70b5&_x_zm_rhtaid=77
     display: (Video, time 1:03:34)
+  preprint:
+    url: https://arxiv.org/abs/2102.06966
+    display: (Preprint)
   
 - title: "Targeted Pandemic Containment Through Identifying Local Contact Network Bottlenecks"
   image: targeted_pandemic.jpg
@@ -54,6 +60,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/2006.06939
+    display: (Preprint)
 
 - title: "p-Norm Flow Diffusion for Local Graph Clustering"
   image: p_norm.jpg
@@ -73,6 +82,9 @@
   video:
     url: https://www.youtube.com/watch?v=X6V11ZFCkk8&feature=emb_title
     display: (Video)
+  preprint:
+    url: https://arxiv.org/abs/2005.09810
+    display: (Preprint)
 
 - title: "Flow-based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance"
   image: big_flow.jpg
@@ -90,6 +102,9 @@
     url:
     display:
   video:
+    url:
+    display:
+  preprint:
     url:
     display:
   
@@ -111,6 +126,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1906.04863
+    display: (Preprint)
   
 - title: "Statistical Guarantees for Local Graph Clustering"
   image:
@@ -130,6 +148,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1906.04863
+    display: (Preprint)
 
 - title: "Parallel and Communication Avoiding Least Angle Regression"
   image:
@@ -149,6 +170,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1905.11340
+    display: (Preprint)
 
 - title: "Locality And Structure Aware Graph Node Embedding"
   image:
@@ -168,6 +192,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1710.06520
+    display: (Preprint)
 
 - title: "A Flexible Coordinate Descent Method"
   image:
@@ -187,6 +214,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1507.03713
+    display: (Preprint)
 
 - title: "Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization"
   image:
@@ -206,6 +236,9 @@
   video:
     url: https://www.youtube.com/watch?v=uElfprD9Tb8
     display: (Video)
+  preprint:
+    url: https://arxiv.org/abs/1712.06047
+    display: (Preprint)
 
 - title: "Variational Perspective on Local Graph Clustering"
   image:
@@ -225,6 +258,9 @@
   video:
     url: https://www.youtube.com/watch?v=uElfprD9Tb8&t=1241s
     display: (Video)
+  preprint:
+    url: https://arxiv.org/abs/1602.01886
+    display: (Preprint)
 
 - title: "Capacity Releasing Diffusion for Speed and Locality"
   image:
@@ -244,6 +280,9 @@
   video:
     url: https://vimeo.com/238227621
     display: (Video)
+  preprint:
+    url: https://arxiv.org/abs/1706.05826
+    display: (Preprint)
 
 - title: "Avoiding communication in primal and dual block coordinate descent methods"
   image:
@@ -263,6 +302,9 @@
   video:
     url: https://www.youtube.com/watch?v=uElfprD9Tb8
     display: (Video)
+  preprint:
+    url: https://arxiv.org/abs/1612.04003
+    display: (Preprint)
   
 - title: "A Randomized Rounding Algorithm for Sparse PCA"
   image:
@@ -282,6 +324,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1508.03337
+    display: (Preprint)
 
 - title: "An Optimization Approach to Locally-Biased Graph Algorithms"
   image:
@@ -301,6 +346,9 @@
   video:
     url: https://www.youtube.com/watch?v=mf9h1-jhyos
     display: (Video)
+  preprint:
+    url: https://arxiv.org/abs/1607.04940
+    display: (Preprint)
 
 - title: "Performance of First- and Second-Order Methods for L1-Regularized Least Squares Problems"
   image:
@@ -320,6 +368,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1306.5386
+    display: (Preprint)
 
 - title: "A Second-Order Method for Strongly-Convex L1-Regularization Problems"
   image:
@@ -339,6 +390,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1306.5386
+    display: (Preprint)
 
 - title: "Parallel Local Graph Clustering"
   image:
@@ -358,6 +412,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1604.07515
+    display: (Preprint)
 
 - title: "A Preconditioner for a Primal-dual Newton Conjugate Gradients Method for Compressed Sensing Problems"
   image:
@@ -377,6 +434,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1501.00047
+    display: (Preprint)
 
 - title: "Matrix-free interior point method for compressed sensing problems"
   image:
@@ -396,6 +456,9 @@
   video:
     url:
     display:
+  preprint:
+    url: https://arxiv.org/abs/1208.5435
+    display: (Preprint)
 
 - title: "Higher-Order Methods for Large-Scale Optimization"
   image:
@@ -412,6 +475,9 @@
     url: thesisSlides.pdf
     display: (Slides)
   video:
+    url:
+    display:
+  preprint:
     url:
     display:
   news2:
