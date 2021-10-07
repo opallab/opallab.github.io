@@ -10,6 +10,9 @@
   code:
     url: https://github.com/opallab/Local-Hyper-flow-Diffusion
     display: Code
+  slides:
+    url:
+    display:
   
 - title: "Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization"
   image: gcn_one_layer.jpg
@@ -23,6 +26,9 @@
   code:
     url: https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.
     display: Code
+  slides:
+    url: CAIMS2021.pdf
+    display: Slides
   
 - title: "Targeted Pandemic Containment Through Identifying Local Contact Network Bottlenecks"
   image: targeted_pandemic.jpg
@@ -36,6 +42,9 @@
   code:
     url: https://github.com/opallab/TargetedPandemicContainment
     display: Code
+  slides:
+    url:
+    display:
 
 - title: "p-Norm Flow Diffusion for Local Graph Clustering"
   image: p_norm.jpg
@@ -49,6 +58,9 @@
   code:
     url: https://github.com/opallab/pNormFlowDiffusion
     display: Code
+  slides:
+    url:
+    display:
 
 - title: "Flow-based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance"
   image: big_flow.jpg
@@ -62,6 +74,9 @@
   code:
     url: https://github.com/opallab/LocalGraphClustering
     display: Code
+  slides:
+    url:
+    display:
   
 - title: "Statistical Guarantees for Local Graph Clustering (Long version at JMLR)"
   image:
@@ -73,6 +88,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
   
@@ -88,6 +106,9 @@
   code:
     url:
     display:
+  slides:
+    url:
+    display:
 
 - title: "Parallel and Communication Avoiding Least Angle Regression"
   image:
@@ -99,6 +120,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
 
@@ -114,6 +138,9 @@
   code:
     url:
     display:
+  slides:
+    url:
+    display:
 
 - title: "A Flexible Coordinate Descent Method"
   image:
@@ -125,6 +152,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
 
@@ -140,6 +170,9 @@
   code:
     url:
     display:
+  slides:
+    url:
+    display:
 
 - title: "Variational Perspective on Local Graph Clustering"
   image:
@@ -151,6 +184,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
 
@@ -166,6 +202,9 @@
   code:
     url:
     display:
+  slides:
+    url:
+    display:
 
 - title: "Avoiding communication in primal and dual block coordinate descent methods"
   image:
@@ -177,6 +216,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
   
@@ -192,6 +234,9 @@
   code:
     url:
     display:
+  slides:
+    url:
+    display:
 
 - title: "An Optimization Approach to Locally-Biased Graph Algorithms"
   image:
@@ -203,6 +248,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
 
@@ -218,6 +266,9 @@
   code:
     url: https://www.maths.ed.ac.uk/ERGO/trillion/
     display: Code
+  slides:
+    url:
+    display:
 
 - title: "A Second-Order Method for Strongly-Convex L1-Regularization Problems"
   image:
@@ -229,6 +280,9 @@
   highlight: 0
   news2:
   code:
+    url:
+    display:
+  slides:
     url:
     display:
 
@@ -244,6 +298,9 @@
   code:
     url:
     display:
+  slides:
+    url:
+    display:
 
 - title: "A Preconditioner for a Primal-dual Newton Conjugate Gradients Method for Compressed Sensing Problems"
   image:
@@ -257,6 +314,9 @@
   code:
     url: https://www.maths.ed.ac.uk/ERGO/pdNCG/
     display: Code
+  slides:
+    url:
+    display:
 
 - title: "Matrix-free interior point method for compressed sensing problems"
   image:
@@ -270,6 +330,9 @@
   code:
     url: https://www.maths.ed.ac.uk/ERGO/mfipmcs/
     display: Code
+  slides:
+    url:
+    display:
 
 - title: "Higher-Order Methods for Large-Scale Optimization"
   image:
@@ -279,4 +342,10 @@
     url: https://era.ed.ac.uk/handle/1842/15797
     display: Kimon Fountoulakis' PhD Thesis
   highlight: 0
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
   news2:
