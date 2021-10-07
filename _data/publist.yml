@@ -7,6 +7,9 @@
     display: arXiv:2102.07945 (accepted at NeurIPS 2021)
   highlight: 1
   news2:
+  code:
+    url: https://github.com/opallab/Local-Hyper-flow-Diffusion
+    display: Code
   
 - title: "Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization"
   image: gcn_one_layer.jpg
@@ -17,6 +20,9 @@
     display: International Conference on Machine Learning (ICML) 2021
   highlight: 1
   news2:
+  code:
+    url: https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.
+    display: Code
   
 - title: "Targeted Pandemic Containment Through Identifying Local Contact Network Bottlenecks"
   image: targeted_pandemic.jpg
@@ -27,6 +33,9 @@
     display: PLOS Computational Biology
   highlight: 0
   news2:
+  code:
+    url:
+    display: Code
 
 - title: "p-Norm Flow Diffusion for Local Graph Clustering"
   image: p_norm.jpg
@@ -37,6 +46,9 @@
     display: International Conference on Machine Learning (ICML) 2020
   highlight: 0
   news2:
+  code:
+    url: https://github.com/opallab/pNormFlowDiffusion
+    display: Code
 
 - title: "Flow-based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance"
   image: big_flow.jpg
@@ -47,6 +59,9 @@
     display:  arXiv:2004.09608
   highlight: 0
   news2:
+  code:
+    url: https://github.com/opallab/LocalGraphClustering
+    display: Code
   
 - title: "Statistical Guarantees for Local Graph Clustering (Long version at JMLR)"
   image:
@@ -167,6 +182,9 @@
     display: Computational Optimization and Applications
   highlight: 0
   news2:
+  code:
+    url: https://www.maths.ed.ac.uk/ERGO/trillion/
+    display: Code
 
 - title: "A Second-Order Method for Strongly-Convex L1-Regularization Problems"
   image:
@@ -197,6 +215,9 @@
     display: SIAM Journal on Scientific Computing (SISC)
   highlight: 0
   news2:
+  code:
+    url: https://www.maths.ed.ac.uk/ERGO/pdNCG/
+    display: Code
 
 - title: "Matrix-free interior point method for compressed sensing problems"
   image:
@@ -207,6 +228,9 @@
     display: Mathematical Programming Computation
   highlight: 0
   news2:
+  code:
+    url: https://www.maths.ed.ac.uk/ERGO/mfipmcs/
+    display: Code
 
 - title: "Higher-Order Methods for Large-Scale Optimization"
   image:
