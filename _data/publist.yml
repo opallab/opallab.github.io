@@ -72,6 +72,9 @@
     display:  Journal of Machine Learning Research
   highlight: 0
   news2:
+  code:
+    url:
+    display:
   
 - title: "Statistical Guarantees for Local Graph Clustering"
   image:
@@ -82,6 +85,9 @@
     display:  International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Parallel and Communication Avoiding Least Angle Regression"
   image:
@@ -92,6 +98,9 @@
     display:  SIAM Journal on Scientific Computing
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Locality And Structure Aware Graph Node Embedding"
   image:
@@ -102,6 +111,9 @@
     display: International Conference on Web Intelligence 2018 (Best student paper award)
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "A Flexible Coordinate Descent Method"
   image:
@@ -112,6 +124,9 @@
     display: Computational Optimization and Applications
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization"
   image:
@@ -122,6 +137,9 @@
     display:  International Parallel and Distributed Processing Symposium (IPDPS) 2018
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Variational Perspective on Local Graph Clustering"
   image:
@@ -132,6 +150,9 @@
     display:  Mathematical Programming
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Capacity Releasing Diffusion for Speed and Locality"
   image:
@@ -142,6 +163,9 @@
     display: International Conference on Machine Learning (ICML) 2017
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Avoiding communication in primal and dual block coordinate descent methods"
   image:
@@ -152,6 +176,9 @@
     display: SIAM Journal on Scientific Computing (SISC)
   highlight: 0
   news2:
+  code:
+    url:
+    display:
   
 - title: "A Randomized Rounding Algorithm for Sparse PCA"
   image:
@@ -162,6 +189,9 @@
     display: ACM Transactions on Knowledge Discovery from Data
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "An Optimization Approach to Locally-Biased Graph Algorithms"
   image:
@@ -172,6 +202,9 @@
     display: Proceedings of the IEEE
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Performance of First- and Second-Order Methods for L1-Regularized Least Squares Problems"
   image:
@@ -195,6 +228,9 @@
     display: Mathematical Programming
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "Parallel Local Graph Clustering"
   image:
@@ -205,6 +241,9 @@
     display: Proceedings of the VLDB Endowment (VLDB) 2016
   highlight: 0
   news2:
+  code:
+    url:
+    display:
 
 - title: "A Preconditioner for a Primal-dual Newton Conjugate Gradients Method for Compressed Sensing Problems"
   image:
