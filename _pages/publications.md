@@ -60,6 +60,7 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  <a href="{{ publi.preprint.url }}">{{ publi.preprint.display }}</a>
   <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
   <a href="{{ site.url }}{{ site.baseurl }}/downloads/slides/{{ publi.slides.url }}">{{ publi.slides.display }}</a>
   <a href="{{ publi.video.url }}">{{ publi.video.display }}</a>
