@@ -59,8 +59,8 @@
     url: https://github.com/opallab/pNormFlowDiffusion
     display: Code
   slides:
-    url:
-    display:
+    url: p-NormFlowDiffusion.pdf
+    display: Slides
 
 - title: "Flow-based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance"
   image: big_flow.jpg
@@ -91,8 +91,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: iccopt2019.pdf
+    display: Slides
   
 - title: "Statistical Guarantees for Local Graph Clustering"
   image:
@@ -107,8 +107,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: iccopt2019.pdf
+    display: Slides
 
 - title: "Parallel and Communication Avoiding Least Angle Regression"
   image:
@@ -155,8 +155,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: rcdIMA2014.pdf
+    display: Slides
 
 - title: "Avoiding Synchronization in First-Order Methods for Sparse Convex Optimization"
   image:
@@ -171,8 +171,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: ECECRETE2018.pdf
+    display: Slides
 
 - title: "Variational Perspective on Local Graph Clustering"
   image:
@@ -187,8 +187,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: ISMP2018.pdf
+    display: Slides
 
 - title: "Capacity Releasing Diffusion for Speed and Locality"
   image:
@@ -219,8 +219,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: ECECRETE2018.pdf
+    display: Slides
   
 - title: "A Randomized Rounding Algorithm for Sparse PCA"
   image:
@@ -251,8 +251,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: MMDS2016.pdf
+    display: Slides
 
 - title: "Performance of First- and Second-Order Methods for L1-Regularized Least Squares Problems"
   image:
@@ -267,8 +267,8 @@
     url: https://www.maths.ed.ac.uk/ERGO/trillion/
     display: Code
   slides:
-    url:
-    display:
+    url: ismp2015.pdf
+    display: Slides
 
 - title: "A Second-Order Method for Strongly-Convex L1-Regularization Problems"
   image:
@@ -283,8 +283,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: NLAO14.pdf
+    display: Slides
 
 - title: "Parallel Local Graph Clustering"
   image:
@@ -299,8 +299,8 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: samsi2016.pdf
+    display: Slides
 
 - title: "A Preconditioner for a Primal-dual Newton Conjugate Gradients Method for Compressed Sensing Problems"
   image:
@@ -315,8 +315,8 @@
     url: https://www.maths.ed.ac.uk/ERGO/pdNCG/
     display: Code
   slides:
-    url:
-    display:
+    url: ifors14_Kimon.pdf
+    display: Slides
 
 - title: "Matrix-free interior point method for compressed sensing problems"
   image:
@@ -331,8 +331,8 @@
     url: https://www.maths.ed.ac.uk/ERGO/mfipmcs/
     display: Code
   slides:
-    url:
-    display:
+    url: or54.pdf
+    display: Slides
 
 - title: "Higher-Order Methods for Large-Scale Optimization"
   image:
@@ -346,6 +346,6 @@
     url:
     display:
   slides:
-    url:
-    display:
+    url: thesisSlides.pdf
+    display: Slides
   news2:

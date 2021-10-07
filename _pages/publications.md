@@ -61,5 +61,6 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+  <a href="{{ publi.slides.url }}">{{ publi.slides.display }}</a>
 
 {% endfor %}
