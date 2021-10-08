@@ -11,8 +11,8 @@
     url: https://github.com/opallab/Local-Hyper-flow-Diffusion
     display: (Code)
   slides:
-    url:
-    display:
+    url: HFD_SIAM_ACDA.pdf
+    display: (Slides)
   video:
     url: https://www.youtube.com/watch?v=CcOIw78zQqw
     display: (Video)
@@ -55,8 +55,8 @@
     url: https://github.com/opallab/TargetedPandemicContainment
     display: (Code)
   slides:
-    url:
-    display:
+    url: netsci2020_id615_slides.pdf
+    display: (Slides)
   video:
     url:
     display:
