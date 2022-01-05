@@ -1,3 +1,19 @@
+- name: Jerry Huang
+  photo: jerryHuang.png
+  duration: September 2021 - December 2021
+  info: Undergraduate research fellow
+  email: Njerry.huang@uwaterloo.ca
+  number_educ: 1
+  education1: B.S.E in Software Engineering, University of Waterloo
+  
+- name: Dongshu (Eric) Luo
+  photo: dongshu.png
+  duration: September 2021 - December 2021
+  info: Undergraduate research fellow
+  email: d33luo@uwaterloo.ca
+  number_educ: 1
+  education1: B.S. Computer Science and Statistics, University of Waterloo
+
 - name: Nathaniel Brown
   photo: no-pic.png
   duration: January 2021 - May 2021
