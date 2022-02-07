@@ -3,8 +3,8 @@
   description: A plethora of real-world problems require utilization of hypergraphs and diffusion algorithms. Examples include recommendation systems, node ranking in food networks and community detection in social networks to mention a few. Due to the increased size and complexity of real hypergraphs, local and accurate diffusion algorithms that work with the most complex hypergraphs are in need. We propose the first local diffusion method that works on higher-order relations with only a submodularity assumption. Our method is based on a primal-dual optimization formulation where the primal problem has a natural network flow interpretation, and the dual problem has a cut-based interpretation using the l2-norm penalty for general submodular cut-costs. We prove that the proposed formulation achieves quadratic approximation error for the problem of local hypergraph clustering. We demonstrate that the new technique is significantly better than state-of-the-art methods over a range of real datasets for the local hypergraph clustering and node ranking problems.
   authors: K. Fountoulakis, P. Li, S. Yang
   link:
-    url: https://arxiv.org/abs/2102.07945
-    display: arXiv:2102.07945 (accepted at NeurIPS 2021)
+    url: https://proceedings.neurips.cc/paper/2021/hash/e924517087669cf201ea91bd737a4ff4-Abstract.html
+    display: Conference on Neural Information Processing Systems (NeurIPS) 2021
   highlight: 1
   news2:
   code:
@@ -17,8 +17,8 @@
     url: https://www.youtube.com/watch?v=CcOIw78zQqw
     display: (Video)
   preprint:
-    url:
-    display:
+    url: https://arxiv.org/abs/2102.07945
+    display: arXiv:2102.07945
   
 - title: "Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization"
   image: after-conv.png
