@@ -14,8 +14,8 @@
     url:
     display:
   video:
-    url:
-    display:
+    url: https://www.youtube.com/watch?v=duWVNO8_sDM
+    display: (Video)
   preprint:
     url: https://arxiv.org/abs/2202.13060
     display: (Preprint)
@@ -33,8 +33,8 @@
     url: https://github.com/opallab/Local-Hyper-flow-Diffusion
     display: (Code)
   slides:
-    url: HFD_SIAM_ACDA.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=CcOIw78zQqw
     display: (Video)
@@ -55,8 +55,8 @@
     url: https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.
     display: (Code)
   slides:
-    url: CAIMS2021.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://zoom.us/rec/play/X1FbBJiP1bLTixjmU7wBw233sutk939XulBkrY0Szes9KSNh_cFovdohKoZ-KXFaCZJ5G5yg4m5nKZol.47Ol60UmzMVLZec8?startTime=1624287370000&_x_zm_rtaid=2ArAs6KUSwiFwnA5V61cmQ.1624792221031.e0fb3030146eeed7cee824bfc92e70b5&_x_zm_rhtaid=77
     display: (Video, time 1:03:34)
@@ -77,8 +77,8 @@
     url: https://github.com/opallab/TargetedPandemicContainment
     display: (Code)
   slides:
-    url: netsci2020_id615_slides.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -99,8 +99,8 @@
     url: https://github.com/opallab/pNormFlowDiffusion
     display: (Code)
   slides:
-    url: p-NormFlowDiffusion.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=X6V11ZFCkk8&feature=emb_title
     display: (Video)
@@ -143,8 +143,8 @@
     url:
     display:
   slides:
-    url: iccopt2019.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -165,8 +165,8 @@
     url:
     display:
   slides:
-    url: iccopt2019.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -231,8 +231,8 @@
     url:
     display:
   slides:
-    url: rcdIMA2014.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -253,8 +253,8 @@
     url:
     display:
   slides:
-    url: ECECRETE2018.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=uElfprD9Tb8
     display: (Video)
@@ -275,8 +275,8 @@
     url:
     display:
   slides:
-    url: ISMP2018.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=uElfprD9Tb8&t=1241s
     display: (Video)
@@ -319,8 +319,8 @@
     url:
     display:
   slides:
-    url: ECECRETE2018.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=uElfprD9Tb8
     display: (Video)
@@ -363,8 +363,8 @@
     url:
     display:
   slides:
-    url: MMDS2016.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=mf9h1-jhyos
     display: (Video)
@@ -385,8 +385,8 @@
     url: https://www.maths.ed.ac.uk/ERGO/trillion/
     display: (Code)
   slides:
-    url: ismp2015.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -407,8 +407,8 @@
     url:
     display:
   slides:
-    url: NLAO14.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -429,8 +429,8 @@
     url:
     display:
   slides:
-    url: samsi2016.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -451,8 +451,8 @@
     url: https://www.maths.ed.ac.uk/ERGO/pdNCG/
     display: (Code)
   slides:
-    url: ifors14_Kimon.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -473,8 +473,8 @@
     url: https://www.maths.ed.ac.uk/ERGO/mfipmcs/
     display: (Code)
   slides:
-    url: or54.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
@@ -494,8 +494,8 @@
     url:
     display:
   slides:
-    url: thesisSlides.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url:
     display:
