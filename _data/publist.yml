@@ -49,7 +49,7 @@
   link:
     url: https://proceedings.neurips.cc/paper/2021/hash/e924517087669cf201ea91bd737a4ff4-Abstract.html
     display: Conference on Neural Information Processing Systems (NeurIPS) 2021
-  highlight: 1
+  highlight: 0
   news2:
   code:
     url: https://github.com/opallab/Local-Hyper-flow-Diffusion
