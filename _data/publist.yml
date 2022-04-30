@@ -28,7 +28,7 @@
     url: https://arxiv.org/abs/2202.13060
     display: arXiv:2202.13060
   highlight: 1
-  news2:
+  news2: Best paper award at the GroundedML workshop at ICLR 2022.
   code:
     url: https://github.com/opallab/Graph-Attention-Retrospective/
     display: (Code)
