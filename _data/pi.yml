@@ -1,10 +1,10 @@
 - name: Kimon Fountoulakis
   photo: kimon.jpg
-  info: Assistant professor, started November 2018, visiting faculty researscher at Google (May - September 2022)
-
+  info: Assistant professor, started November 2018
   email: kimon.fountoulakis@uwaterloo.ca
   number_educ: 1
   education1: B.Sc. in Management Science and Technology at Athens University of Economics and Business
   education2: Master in <a href="https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=499">Operational Research and Computational Optimization</a> at the School of Mathematics at the University of Edinburgh
   education3: PhD in Numerical Optimization with <a href="https://www.maths.ed.ac.uk/~gondzio/">Jacek Gondzio</a> at the School of Mathematics at the University of Edinburgh
   education4: Postdoctoral Fellow at the Department of Statistics at UC Berkeley and the International Computer Science Institute with <a href="https://www.stat.berkeley.edu/~mmahoney/">Michael Mahoney</a>
+  education5: Visiting faculty researscher at Google (May - September 2022)
