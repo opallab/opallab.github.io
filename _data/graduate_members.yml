@@ -24,12 +24,13 @@
   education1: Honors B.Sc. in Applied Mathematics, Western University
   education2: Masters in Combinatorics and Optimization, University of Waterloo
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://opallab.ca/vacancies">openings</a> for more info
-  email: kimon.fountoulakis@uwaterloo.ca
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+
+#- name: "This could be you !"
+#  photo: rock.jpg
+#  info: See <a href="https://opallab.ca/vacancies">openings</a> for more info
+#  email: kimon.fountoulakis@uwaterloo.ca
+#  number_educ: 0
+#  education1:
+#  education2:
+#  education3:
+#  education4:
