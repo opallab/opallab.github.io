@@ -1,3 +1,12 @@
+- name: Artur Back de Luca
+  photo: Artur.jpg
+  info: MMath in Computer Science
+  duration: September 2022 - Now
+  email: abackdel@uwaterloo.ca
+  number_educ: 2
+  education1: B.Sc. in Mechanical Engineering, Federal University of Santa Catarina
+  education2: M.Sc. in Artificial Intelligence and Robotics, Sapienza University of Rome
+
 - name: Chris Bobotsis
   photo: Chris.jpeg
   info: Masters student in Data Science
