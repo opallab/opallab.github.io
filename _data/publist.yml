@@ -28,7 +28,7 @@
     url: https://arxiv.org/abs/2204.09297
     display: arXiv:2204.09297
   highlight: 1
-  news2:
+  news2: Accepted at ICLR 2023 with the tab notable-top-25%.
   code:
     url: https://github.com/opallab/Effects-of-Graph-Convs-in-Deep-Nets
     display: (Code)
