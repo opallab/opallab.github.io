@@ -1,3 +1,25 @@
+- title: "Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees"
+  image: big_flow.png
+  description: Local graph clustering methods aim to detect small clusters in very large graphs without the need to process the whole graph. They are fundamental and scalable tools for a wide range of tasks such as local community detection, node ranking and node embedding. While prior work on local graph clustering mainly focuses on graphs without node attributes, modern real-world graph datasets typically come with node attributes that provide valuable additional information. We present a simple local graph clustering algorithm for graphs with node attributes, based on the idea of diffusing mass locally in the graph while accounting for both structural and attribute proximities. Using high-dimensional concentration results, we provide statistical guarantees on the performance of the algorithm for the recovery of a target cluster with a single seed node. We give conditions under which a target cluster generated from a fairly general contextual random graph model, which includes both the stochastic block model and the planted cluster model as special cases, can be fully recovered with bounded false positives. Empirically, we validate all theoretical claims using synthetic data, and we show that incorporating node attributes leads to superior local clustering performances using real-world graph datasets.
+  authors: S. Yang, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2301.13187
+    display: arXiv:2301.13187
+  highlight: 1
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2301.13187
+    display: (Preprint)
+    
 - title: "On Classification Thresholds for Graph Attention with Edge Features"
   image: clean_edges_varying_q_positive_result.png
   description: The recent years we have seen the rise of graph neural networks for prediction tasks on graphs. One of the dominant architectures is graph attention due to its ability to make predictions using weighted edge features and not only node features. In this paper we analyze, theoretically and empirically, graph attention networks and their ability of correctly labelling nodes in a classic classification task. More specifically, we study the performance of graph attention on the classic contextual stochastic block model (CSBM). In CSBM the nodes and edge features are obtained from a mixture of Gaussians and the edges from a stochastic block model. We consider a general graph attention mechanism that takes random edge features as input to determine the attention coefficients. We study two cases, in the first one, when the edge features are noisy, we prove that the majority of the attention coefficients are up to a constant uniform. This allows us to prove that graph attention with edge features is not better than simple graph convolution for achieving perfect node classification. Second, we prove that when the edge features are clean graph attention can distinguish intra- from inter-edges and this makes graph attention better than classic graph convolution.
@@ -5,7 +27,7 @@
   link:
     url: https://arxiv.org/abs/2210.10014
     display: arXiv:2210.10014
-  highlight: 1
+  highlight: 0
   news2:
   code:
     url: https://github.com/opallab/on-classification-thresholds-for-graph-attention-with-edge-features/tree/main
