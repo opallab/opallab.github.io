@@ -1,3 +1,6 @@
+- date: 24 April 2023
+  headline: "Our paper <a href='https://arxiv.org/abs/2301.13187'>Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees</a> was accepted at ICML 2023 as Oral & Poster."
+  
 - date: 16 February 2023
   headline: "Our paper <a href='https://epubs.siam.org/doi/abs/10.1137/20M1333055'>Flow-Based Algorithms for Improving Clusters: A Unifying Framework, Software, and Performance</a> was published at SIAM Review."
   
