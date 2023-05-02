@@ -1,3 +1,11 @@
+- name: Chris Bobotsis
+  photo: Chris.jpeg
+  info: Masters student in Data Science
+  duration: September 2020 - Now
+  email: cbobotsi@uwaterloo.ca
+  number_educ: 1
+  education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
+
 - name: Rishabh Anand
   photo: TPWumb_U_400x400.jpg
   duration: May 2022 - September 2022
