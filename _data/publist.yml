@@ -1,3 +1,25 @@
+- title: "Optimality of Message-Passing Architectures for Sparse Graphs"
+  image: optimal_arch.jpg
+  description: We study the node classification problem on feature-decorated graphs in the sparse setting, i.e., when the expected degree of a node is O(1) in the number of nodes. Such graphs are typically known to be locally tree-like. We introduce a notion of Bayes optimality for node classification tasks, called asymptotic local Bayes optimality, and compute the optimal classifier according to this criterion for a fairly general statistical data model with arbitrary distributions of the node features and edge connectivity. The optimal classifier is implementable using a message-passing graph neural network architecture. We then compute the generalization error of this classifier and compare its performance against existing learning methods theoretically on a well-studied statistical model with naturally identifiable signal-to-noise ratios (SNRs) in the data. We find that the optimal message-passing architecture interpolates between a standard MLP in the regime of low graph signal and a typical convolution in the regime of high graph signal. Furthermore, we prove a corresponding non-asymptotic result.
+  authors: A. Baranwal, K. Fountoulakis, A. Jagannath
+  link:
+    url: https://arxiv.org/abs/2305.10391
+    display: arXiv:2305.10391
+  highlight: 1
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2305.10391
+    display: (Preprint)
+
 - title: "Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees"
   image: big_flow.jpg
   description: Local graph clustering methods aim to detect small clusters in very large graphs without the need to process the whole graph. They are fundamental and scalable tools for a wide range of tasks such as local community detection, node ranking and node embedding. While prior work on local graph clustering mainly focuses on graphs without node attributes, modern real-world graph datasets typically come with node attributes that provide valuable additional information. We present a simple local graph clustering algorithm for graphs with node attributes, based on the idea of diffusing mass locally in the graph while accounting for both structural and attribute proximities. Using high-dimensional concentration results, we provide statistical guarantees on the performance of the algorithm for the recovery of a target cluster with a single seed node. We give conditions under which a target cluster generated from a fairly general contextual random graph model, which includes both the stochastic block model and the planted cluster model as special cases, can be fully recovered with bounded false positives. Empirically, we validate all theoretical claims using synthetic data, and we show that incorporating node attributes leads to superior local clustering performances using real-world graph datasets.
