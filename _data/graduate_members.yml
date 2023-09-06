@@ -1,7 +1,16 @@
+- name: Muhammad Fetrat Qharabagh
+  photo:
+  info: PhD student
+  duration: September 2023 - Now
+  email: m2fetrat@uwaterloo.ca
+  number_educ: 2
+  education1: B.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic)
+  education2: M.Sc. in Electrical Engineering, University of Alberta
+  
 - name: Artur Back de Luca
   photo: Artur.jpg
-  info: MMath in Computer Science
-  duration: September 2022 - Now
+  info: PhD student
+  duration: September 2023 - Now
   email: abackdel@uwaterloo.ca
   number_educ: 2
   education1: B.Sc. in Mechanical Engineering, Federal University of Santa Catarina
