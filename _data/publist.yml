@@ -25,19 +25,19 @@
   description: Local graph clustering methods aim to detect small clusters in very large graphs without the need to process the whole graph. They are fundamental and scalable tools for a wide range of tasks such as local community detection, node ranking and node embedding. While prior work on local graph clustering mainly focuses on graphs without node attributes, modern real-world graph datasets typically come with node attributes that provide valuable additional information. We present a simple local graph clustering algorithm for graphs with node attributes, based on the idea of diffusing mass locally in the graph while accounting for both structural and attribute proximities. Using high-dimensional concentration results, we provide statistical guarantees on the performance of the algorithm for the recovery of a target cluster with a single seed node. We give conditions under which a target cluster generated from a fairly general contextual random graph model, which includes both the stochastic block model and the planted cluster model as special cases, can be fully recovered with bounded false positives. Empirically, we validate all theoretical claims using synthetic data, and we show that incorporating node attributes leads to superior local clustering performances using real-world graph datasets.
   authors: S. Yang, K. Fountoulakis
   link:
-    url: https://arxiv.org/abs/2301.13187
-    display: arXiv:2301.13187 (Accepted at ICML 2023 as Oral & Poster)
+    url: https://proceedings.mlr.press/v202/yang23d/yang23d.pdf
+    display: ICML 2023, Oral
   highlight: 1
   news2:
   code:
-    url:
-    display:
+    url: https://github.com/s-h-yang/WFD
+    display: (Code)
   slides:
-    url:
-    display:
+    url: https://cs.uwaterloo.ca/~s286yang/pdf/wfd-icml23.pdf
+    display: (Slides)
   video:
-    url:
-    display:
+    url: https://www.youtube.com/watch?v=BcJd15bMACs
+    display: (Video)
   preprint:
     url: https://arxiv.org/abs/2301.13187
     display: (Preprint)
@@ -70,7 +70,7 @@
   authors: A. Baranwal, K. Fountoulakis, A. Jagannath
   link:
     url: https://openreview.net/pdf?id=P-73JPgRs0R
-    display: ICLR 2023 (notable-top-25%)
+    display: ICLR 2023, notable-top-25%
   highlight: 1
   news2:
   code:
@@ -80,8 +80,8 @@
     url:
     display:
   video:
-    url:
-    display:
+    url: https://www.youtube.com/watch?v=AtsaBVu-Oq0
+    display: (Video)
   preprint:
     url: https://arxiv.org/abs/2204.09297
     display: (Preprint)
