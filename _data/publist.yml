@@ -33,8 +33,8 @@
     url: https://github.com/s-h-yang/WFD
     display: (Code)
   slides:
-    url: https://cs.uwaterloo.ca/~s286yang/pdf/wfd-icml23.pdf
-    display: (Slides)
+    url:
+    display:
   video:
     url: https://www.youtube.com/watch?v=BcJd15bMACs
     display: (Video)
