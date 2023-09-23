@@ -25,7 +25,7 @@ permalink: /group_achievements
 
 - 30 April 2022: Our paper <a href='https://arxiv.org/abs/2202.13060'>Graph Attention Retrospective</a> won the best paper award at the <a href='https://sites.google.com/view/groundedml2022'>GroundedML</a> workshop.
 
-- 8 April 2022: "<a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> will join Amazon NY as an intern in July 2022.
+- 8 April 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> will join Amazon NY as an intern in July 2022.
 
 - 18 February 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> is one of the three students that got the Cheriton Scholarship for Winter 2022. That's 10k each year for 2 years.
 
