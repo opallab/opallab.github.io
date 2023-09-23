@@ -15,6 +15,8 @@ permalink: /group_achievements
 
 - 24 April 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao</a>'s paper <a href='https://arxiv.org/abs/2301.13187'>Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees</a> was accepted at ICML 2023 as Oral & Poster.
 
+- 21 January 2023: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='https://arxiv.org/abs/2204.09297'>Effects of Graph Convolutions in Multi-layer Networks</a> was accepted at at <a href='https://openreview.net/forum?id=P-73JPgRs0R'>ICLR 2023</a> with the tag notable-top-25%.
+
 - 10 December 2022: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the top 20 reviewers at the <a href='https://logconference.org'>Learning on Graphs</a> Conference. See the annoucement <a href='https://twitter.com/LogConference/status/1601245186306080770'>here</a>.
 
 - 3 October 2022: <a href='https://aseemrb.me'>Aseem Baranwal</a> will join Google as a Student Researcher.
