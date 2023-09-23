@@ -8,6 +8,8 @@ permalink: /group_achievements
 
 # Group achievements
 
+- 23 September 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> will join Amazon NY again as an intern in December 2023.
+
 - 9 May 2023: 
 <a href='https://aseemrb.me'>Aseem Baranwal</a> has been awarded the Ontario Graduate Scholarship (<a href='https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'>OGS</a>).
 
