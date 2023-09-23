@@ -31,7 +31,7 @@ permalink: /group_achievements
 
 - 20 December 2021: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> was featured at <a href='https://uwaterloo.ca/math/news/taking-on-big-problems'>Mathematics News</a>.
 
-- 14 October 2021: "<a href='https://aseemrb.me'>Aseem Baranwal</a> has been nominated by the CS department for the PhD Google Fellowship.
+- 14 October 2021: <a href='https://aseemrb.me'>Aseem Baranwal</a> has been nominated by the CS department for the PhD Google Fellowship.
 
 - 22 July 2021: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> was a finalist for the best student presentation prize at <a href='https://www.siam.org/conferences/cm/program/accepted-papers/acda21-accepted-papers'>SIAM ACDA</a>. His talk was on <a href='https://arxiv.org/abs/2102.07945'>Local Hyper-flow Diffusion</a>. You can find the video <a href='https://www.youtube.com/watch?v=CcOIw78zQqw&t=0s'>here</a>.
 
