@@ -39,4 +39,6 @@ permalink: /group_achievements
 
 - 31 May 2021: <a href='https://twitter.com/shenghao_yang?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1259576676419330048%7Ctwgr%5EeyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3R3ZWV0X2VtYmVkX2NsaWNrYWJpbGl0eV8xMjEwMiI6eyJidWNrZXQiOiJjb250cm9sIiwidmVyc2lvbiI6bnVsbH19&ref_url=https%3A%2F%2Fcs.uwaterloo.ca%2F~kfountou%2F'>Shenghao Yang</a> is one of the 10 fellows to the <a href='https://www.borealisai.com/en/blog/borealis-ai-2020-2021-fellowships-supporting-canadas-ai-research-ecosystem/'>Borealis AI Global Fellowship</a>.
 
+- 16 May 2021: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='http://proceedings.mlr.press/v139/baranwal21a.html'>Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization</a> was accepted at at <a href='https://icml.cc/Conferences/2021'>ICML 2021</a> with the tag spotlight.
+
 - 14 October 2020: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> is one of the three nominees of the CS department at UWaterloo for the IBM PhD Fellowship Award Program.
