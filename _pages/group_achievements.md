@@ -8,6 +8,8 @@ permalink: /group_achievements
 
 # Group achievements
 
+- 5 January 2023: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the five students that got the Cheriton Scholarship for Winter 2024. That's 10k each year for 2 years.
+
 - 23 September 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> will join Amazon NY again as an intern in December 2023.
 
 - 9 May 2023: 
