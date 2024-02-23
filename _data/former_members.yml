@@ -6,13 +6,13 @@
   number_educ: 1
   education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
 
-- name: Rishabh Anand
-  photo: TPWumb_U_400x400.jpg
-  duration: May 2022 - September 2022
-  info: Research assistant
-  email: mail.rishabh.anand@gmail.com
-  number_educ: 1
-  education1: Bachelors of Computing, Computer Science (with Honours), Double Major in Pure Mathematics, School of Computing, National University of Singapore (NUS)
+#- name: Rishabh Anand
+#  photo: TPWumb_U_400x400.jpg
+#  duration: May 2022 - September 2022
+#  info: Research assistant
+#  email: mail.rishabh.anand@gmail.com
+#  number_educ: 1
+#  education1: Bachelors of Computing, Computer Science (with Honours), Double Major in Pure Mathematics, School of Computing, National University of Singapore (NUS)
 
 - name: Edward Poon
   photo: edwardpoon.jpeg
