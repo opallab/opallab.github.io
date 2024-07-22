@@ -26,7 +26,7 @@ permalink: /group_achievements
 
 - 3 October 2022: <a href='https://aseemrb.me'>Aseem Baranwal</a> will join Google as a Student Researcher.
 
-- 3 May 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> has been awarded the Canada Graduate Scholarship from NSERC.
+- 3 May 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> has been awarded the Canada Graduate Scholarship from NSERC (105K for 3 years), 1 of 330 awards nationally in Canada.
 
 - 30 April 2022: Our paper <a href='https://arxiv.org/abs/2202.13060'>Graph Attention Retrospective</a> won the best paper award at the <a href='https://sites.google.com/view/groundedml2022'>GroundedML</a> workshop.
 
@@ -40,7 +40,7 @@ permalink: /group_achievements
 
 - 22 July 2021: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> was a finalist for the best student presentation prize at <a href='https://www.siam.org/conferences/cm/program/accepted-papers/acda21-accepted-papers'>SIAM ACDA</a>. His talk was on <a href='https://arxiv.org/abs/2102.07945'>Local Hyper-flow Diffusion</a>. You can find the video <a href='https://www.youtube.com/watch?v=CcOIw78zQqw&t=0s'>here</a>.
 
-- 31 May 2021: <a href='https://twitter.com/shenghao_yang?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1259576676419330048%7Ctwgr%5EeyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3R3ZWV0X2VtYmVkX2NsaWNrYWJpbGl0eV8xMjEwMiI6eyJidWNrZXQiOiJjb250cm9sIiwidmVyc2lvbiI6bnVsbH19&ref_url=https%3A%2F%2Fcs.uwaterloo.ca%2F~kfountou%2F'>Shenghao Yang</a> is one of the 10 fellows to the <a href='https://www.borealisai.com/en/blog/borealis-ai-2020-2021-fellowships-supporting-canadas-ai-research-ecosystem/'>Borealis AI Global Fellowship</a>.
+- 31 May 2021: <a href='https://twitter.com/shenghao_yang?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1259576676419330048%7Ctwgr%5EeyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3R3ZWV0X2VtYmVkX2NsaWNrYWJpbGl0eV8xMjEwMiI6eyJidWNrZXQiOiJjb250cm9sIiwidmVyc2lvbiI6bnVsbH19&ref_url=https%3A%2F%2Fcs.uwaterloo.ca%2F~kfountou%2F'>Shenghao Yang</a> is one of the 10 fellows to the <a href='https://www.borealisai.com/en/blog/borealis-ai-2020-2021-fellowships-supporting-canadas-ai-research-ecosystem/'>Borealis AI Global Fellowship</a> (10K CAD). 
 
 - 16 May 2021: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='http://proceedings.mlr.press/v139/baranwal21a.html'>Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization</a> was accepted at at <a href='https://icml.cc/Conferences/2021'>ICML 2021</a> with the tag spotlight.
 
