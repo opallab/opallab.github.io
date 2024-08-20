@@ -136,7 +136,7 @@
   authors: A. Baranwal, K. Fountoulakis, A. Jagannath
   link:
     url: https://openreview.net/pdf?id=P-73JPgRs0R
-    display: International Conference on Learning Representations (ICLR) 2023, notable-top-25%
+    display: International Conference on Learning Representations (ICLR) 2023, **notable-top-25%**
   highlight: 0
   news2:
   code:
@@ -202,7 +202,7 @@
   authors: A. Baranwal, K. Fountoulakis, A. Jagannath
   link:
     url: http://proceedings.mlr.press/v139/baranwal21a.html
-    display: International Conference on Machine Learning (ICML) 2021, spotlight
+    display: International Conference on Machine Learning (ICML) 2021, **spotlight**
   highlight: 0
   news2:
   code:
