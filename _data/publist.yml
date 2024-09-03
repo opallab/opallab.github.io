@@ -1,3 +1,25 @@
+- title: "Local Node Embeddings for Heterogeneous Graphs"
+  image:
+  description:
+  authors: K. Fountoulakis, D. He
+  link:
+    url: https://www.freepatentsonline.com/y2024/0289384.html
+    display: US Patent App. 18/323,877
+  highlight: 0
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://www.freepatentsonline.com/y2024/0289384.html
+    display: (Patent)
+    
 - title: "Analysis of Corrected Graph Convolutions"
   image:
   description:
