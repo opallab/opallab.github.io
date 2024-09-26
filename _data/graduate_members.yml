@@ -1,3 +1,11 @@
+- name: George Giapitzakis Tzintanos
+  photo: george.jpeg
+  info: MMATH student
+  duration: September 2024 - Now
+  email: ggiapitz@uwaterloo.ca
+  number_educ: 2
+  education1: B.Sc. in Pure Matehmatics, National and Kapodistrian University of Athens
+  
 - name: Muhammad Fetrat Qharabagh
   photo: Muhammad.jpg
   info: PhD student
