@@ -7,6 +7,8 @@ permalink: /group_achievements
 ---
 
 # Group achievements
+- 26 September 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>George Giapitzakis Tzintanos</a> was awarded the International Masters Award of Excellence and the Cheriton Scholarship Type II, both from the University of Waterloo, worth a total of 12.5K. 
+
 - 1 July 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> will join the <a href='https://www.xtxmarkets.com/career/xty-labs-ai-residency/'>AI residency program at XTY Labs</a>.
 
 - 5 January 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the five students that got the Cheriton Scholarship for Winter 2024. That's 10k each year for 2 years.
