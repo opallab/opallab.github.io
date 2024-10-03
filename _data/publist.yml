@@ -1,3 +1,25 @@
+- title: "Positional Attention: Out-of-Distribution Generalization and Expressivity for Neural Algorithmic Reasoning"
+  image: pos_attention.jpg
+  description: There has been a growing interest in the ability of neural networks to solve algorithmic tasks, such as arithmetic, summary statistics, and sorting. While state-of-the-art models like Transformers have demonstrated good generalization performance on in-distribution tasks, their out-of-distribution (OOD) performance is poor when trained end-to-end. In this paper, we focus on value generalization, a common instance of OOD generalization where the test distribution has the same input sequence length as the training distribution, but the value ranges in the training and test distributions do not necessarily overlap. To address this issue, we propose that using fixed positional encodings to determine attention weights-referred to as positional attention-enhances empirical OOD performance while maintaining expressivity. We support our claim about expressivity by proving that Transformers with positional attention can effectively simulate parallel algorithms.
+  authors: A. Back de Luca, G. Giapitzakis, S. Yang, P. Veličković, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2410.01686
+    display: arXiv:2410.01686
+  highlight: 1
+  news2:
+  code:
+    url: https://github.com/opallab/positional_attention
+    display: (Code)
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2410.01686
+    display: (Preprint)
+    
 - title: "Local Node Embeddings for Heterogeneous Graphs"
   image:
   description:
@@ -93,7 +115,7 @@
   link:
     url: https://dl.acm.org/doi/10.5555/3666122.3667874
     display: Conference on Neural Information Processing Systems (NeurIPS) 2023
-  highlight: 1
+  highlight: 0
   news2:
   code:
     url: https://github.com/opallab/optimality-mp-archs-sparse-graphs
