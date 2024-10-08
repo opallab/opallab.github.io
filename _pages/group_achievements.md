@@ -20,7 +20,7 @@ permalink: /group_achievements
 
 - 8 May 2023: <a href='https://aseemrb.me'>Aseem Baranwal</a> has been awarded the President's Graduate Scholarship (<a href='https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship'>PGS</a>).
 
-- May 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> has been awarded the (<a href='https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/joseph-wai-hung-liu-graduate-scholarship'>Joseph Wai-Hung Liu</a>) Scholarship.
+- May 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> has been awarded the <a href='https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/joseph-wai-hung-liu-graduate-scholarship'>Joseph Wai-Hung Liu</a> Scholarship.
 
 - 24 April 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao</a>'s paper <a href='https://arxiv.org/abs/2301.13187'>Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees</a> was accepted at ICML 2023 as Oral & Poster.
 
