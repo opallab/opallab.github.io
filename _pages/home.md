@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Optimization, Analytics and Learning (OpAL) Lab is a research group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca). Our work is focused on machine learning on graphs, which is about making predictions using multi-modal datasets that combine features and relational information among entities.
+The Optimization, Analytics and Learning (OpAL) Lab is a research group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca). We work on machine learning for graphs and neural algorithmic reasoning. The former involves making predictions using multi-modal datasets that combine features and relational information among entities. The latter focuses on using neural networks to solve problems that require algorithmic solutions.
 
 We are located at the [University of Waterloo](https://uwaterloo.ca), a vibrant [technological hub](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular/entrepreneurship) with [Concept](https://concept.uwaterloo.ca), [Velocity](https://velocityincubator.com) and [Google](https://careers.google.com/locations/waterloo/) around the block. We are also part of the [Scientific Computation Group](https://scicom.uwaterloo.ca).
 
