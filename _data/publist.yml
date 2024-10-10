@@ -74,8 +74,8 @@
   highlight: 1
   news2:
   code:
-    url:
-    display:
+    url: https://github.com/opallab/graphalgosimulation
+    display: (Code)
   slides:
     url:
     display:
