@@ -47,11 +47,13 @@ permalink: /group_achievements
 
 ### Internships
 
-- 23 September 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> will join Amazon NY again as an intern in December 2023.
+- 1st of June 2023: <a href='https://aseemrb.me'>Aseem Baranwal</a> joined Microsoft Redmond as an intern for the summer of 2023.
 
-- 3 October 2022: <a href='https://aseemrb.me'>Aseem Baranwal</a> will join Google as a Student Researcher.
+- 23 September 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> joined Amazon NY as an intern in December 2023.
 
-- 8 April 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> will join Amazon NY as an intern in July 2022.
+- 3 October 2022: <a href='https://aseemrb.me'>Aseem Baranwal</a> joined Google as a Student Researcher.
+
+- 8 April 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> joined Amazon NY as an intern in July 2022.
 
 ### Jobs
 
