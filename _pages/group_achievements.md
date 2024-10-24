@@ -59,4 +59,4 @@ permalink: /group_achievements
 
 - 1 July 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> will join the <a href='https://www.xtxmarkets.com/career/xty-labs-ai-residency/'>AI residency program at XTY Labs</a>.
 
-- 23 October 2024: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> received an offer for a postdoctoral fellowship from the Department of Statistics at the University of California Berkeley, to work with <a href='https://www.stat.berkeley.edu/~mmahoney/'>Michael Mahoney</a>.
+- 23 October 2024: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> received an offer for a postdoctoral fellowship from the Department of Statistics at the University of California, Berkeley, to work with <a href='https://www.stat.berkeley.edu/~mmahoney/'>Michael Mahoney</a>.
