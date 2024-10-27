@@ -3,9 +3,9 @@
   info: Masters student in Data Science
   duration: September 2020 - Now
   email: cbobotsi@uwaterloo.ca
-  number_educ: 1
-#  education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
-  education1: Currently at Polyalgorithm Machine Learning (PolyML)
+  number_educ: 2
+  education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
+  education2: Currently at Polyalgorithm Machine Learning (PolyML)
 
 #- name: Rishabh Anand
 #  photo: TPWumb_U_400x400.jpg
@@ -20,39 +20,42 @@
   info: Masters student at the David R. Cheriton School of Computer Science, University of Waterloo
   duration: September 2019 - Now
   email: edward.poon@uwaterloo.ca
-  number_educ: 2
-#  education1: Joint Honours BSc, Computer Science and Mathematics
-#  education2: MMath, Pure Mathematics
-  education1: Currently at Uber
+  number_educ: 3
+  education1: Joint Honours BSc, Computer Science and Mathematics
+  education2: MMath, Pure Mathematics
+  education3: Currently at Uber
 
 - name: Jerry Huang
   photo: jerryHuang.png
   duration: September 2021 - December 2021
   info: Undergraduate research fellow
   email: Njerry.huang@uwaterloo.ca
-  number_educ: 1
-  education1: Currently: Masters student, MILA
+  number_educ: 2
+  education1: B.S.E in Software Engineering, University of Waterloo
+  education2: Currently: Masters student, MILA
   
 - name: Dongshu (Eric) Luo
   photo: dongshu.png
   duration: September 2021 - December 2021
   info: Undergraduate research fellow
   email: d33luo@uwaterloo.ca
-  number_educ: 1
-  education1: Currently at Amazon Web Services (AWS)
+  number_educ: 2
+  education1: B.S. Computer Science and Statistics, University of Waterloo
+  education2: Currently at Amazon Web Services (AWS)
 
 - name: Nathaniel Brown
   photo: no-pic.png
   duration: January 2021 - May 2021
   info: Undergraduate research fellow
   email: Nathaniel.Brown@dal.ca
-  number_educ: 1
-  education1: Currently: Ph.D student, Johns Hopkins University
+  number_educ: 2
+  education1: Bachelor of Computer Science Honours, Dalhousie University
+  education2: Currently: Ph.D student, Johns Hopkins University
 
 - name: Chufeng Hu
   photo: chufeng.jpg
   duration: Winter 2019 - Winter 2020
-  info: Research-based Masters student at the David R. Cheriton School of Computer Science, University of Waterloo.
+  info: MMath student at the David R. Cheriton School of Computer Science, University of Waterloo.
   email: chufeng.hu@uwaterloo.ca
   number_educ: 1
   education1: Currently at Amazon Web Services (AWS)
