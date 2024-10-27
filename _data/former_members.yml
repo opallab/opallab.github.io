@@ -1,24 +1,16 @@
 - name: Chris Bobotsis
   photo: Chris.jpeg
   info: Masters student in Data Science
-  duration: September 2020 - Now
+  duration: September 2020 - September 2022
   email: cbobotsi@uwaterloo.ca
   number_educ: 2
   education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
   education2: Currently at Polyalgorithm Machine Learning (PolyML)
 
-#- name: Rishabh Anand
-#  photo: TPWumb_U_400x400.jpg
-#  duration: May 2022 - September 2022
-#  info: Research assistant
-#  email: mail.rishabh.anand@gmail.com
-#  number_educ: 1
-#  education1: Bachelors of Computing, Computer Science (with Honours), Double Major in Pure Mathematics, School of Computing, National University of Singapore (NUS)
-
 - name: Edward Poon
   photo: edwardpoon.jpeg
   info: Masters student at the David R. Cheriton School of Computer Science, University of Waterloo
-  duration: September 2019 - Now
+  duration: September 2019 - May 2022
   email: edward.poon@uwaterloo.ca
   number_educ: 3
   education1: Joint Honours BSc, Computer Science and Mathematics
