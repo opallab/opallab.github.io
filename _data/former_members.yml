@@ -4,7 +4,8 @@
   duration: September 2020 - Now
   email: cbobotsi@uwaterloo.ca
   number_educ: 1
-  education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
+#  education1: Bachelor of Applied Science, Mechanical (Mechatronics) Engineering, University of Toronto
+  education1: Currently at Polyalgorithm Machine Learning (PolyML)
 
 #- name: Rishabh Anand
 #  photo: TPWumb_U_400x400.jpg
@@ -20,8 +21,9 @@
   duration: September 2019 - Now
   email: edward.poon@uwaterloo.ca
   number_educ: 2
-  education1: Joint Honours BSc, Computer Science and Mathematics
-  education2: MMath, Pure Mathematics
+#  education1: Joint Honours BSc, Computer Science and Mathematics
+#  education2: MMath, Pure Mathematics
+  education1: Currently at Uber
 
 - name: Jerry Huang
   photo: jerryHuang.png
@@ -29,7 +31,7 @@
   info: Undergraduate research fellow
   email: Njerry.huang@uwaterloo.ca
   number_educ: 1
-  education1: B.S.E in Software Engineering, University of Waterloo
+  education1: Currently: Masters student, MILA
   
 - name: Dongshu (Eric) Luo
   photo: dongshu.png
@@ -37,7 +39,7 @@
   info: Undergraduate research fellow
   email: d33luo@uwaterloo.ca
   number_educ: 1
-  education1: B.S. Computer Science and Statistics, University of Waterloo
+  education1: Currently at Amazon Web Services (AWS)
 
 - name: Nathaniel Brown
   photo: no-pic.png
@@ -45,7 +47,7 @@
   info: Undergraduate research fellow
   email: Nathaniel.Brown@dal.ca
   number_educ: 1
-  education1: Bachelor of Computer Science Honours, Dalhousie University
+  education1: Currently: Ph.D student, Johns Hopkins University
 
 - name: Chufeng Hu
   photo: chufeng.jpg
@@ -53,7 +55,7 @@
   info: Research-based Masters student at the David R. Cheriton School of Computer Science, University of Waterloo.
   email: chufeng.hu@uwaterloo.ca
   number_educ: 1
-  education1: Currently Chufeng is a software engineer at Amazon Web Services (AWS)
+  education1: Currently at Amazon Web Services (AWS)
   
 - name: Ziqi Zhou
   photo: no-pic.png
@@ -61,5 +63,5 @@
   info: Undergraduate research assistant
   email: z229zhou@edu.uwaterloo.ca
   number_educ: 1
-  education1: Bachelor in Computer Science at the David R. Cheriton School of Computer Science, University of Waterloo
+  education1: Currently: Partner, Puzzle Ventures
   
