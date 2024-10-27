@@ -1,5 +1,3 @@
-Masters Students
-
 - name: Chris Bobotsis
   photo: Chris.jpeg
   info: Masters student in Data Science
@@ -26,8 +24,6 @@ Masters Students
   email: chufeng.hu@uwaterloo.ca
   number_educ: 1
   education1: Currently at Amazon Web Services (AWS)
-
-Undergraduate Students
 
 - name: Jerry Huang
   photo: jerryHuang.png
