@@ -10,9 +10,9 @@ permalink: /group_achievements
 
 ### Recognitions
 
-- 24 April 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao</a>'s paper <a href='https://arxiv.org/abs/2301.13187'>Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees</a> was accepted at ICML 2023 as Oral & Poster.
+- 24 April 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao</a>'s paper <a href='https://arxiv.org/abs/2301.13187'>Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees</a> was accepted at ICML 2023 as Oral & Poster, top 3%.
 
-- 21 January 2023: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='https://arxiv.org/abs/2204.09297'>Effects of Graph Convolutions in Multi-layer Networks</a> was accepted at at <a href='https://openreview.net/forum?id=P-73JPgRs0R'>ICLR 2023</a> with the tag notable-top-25%.
+- 21 January 2023: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='https://arxiv.org/abs/2204.09297'>Effects of Graph Convolutions in Multi-layer Networks</a> was accepted at at <a href='https://openreview.net/forum?id=P-73JPgRs0R'>ICLR 2023</a> as Spotlight, top 6%.
 
 - 10 December 2022: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the top 20 reviewers at the <a href='https://logconference.org'>Learning on Graphs</a> Conference. See the annoucement <a href='https://twitter.com/LogConference/status/1601245186306080770'>here</a>.
 
@@ -22,7 +22,7 @@ permalink: /group_achievements
 
 - 22 July 2021: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> was a finalist for the best student presentation prize at <a href='https://www.siam.org/conferences/cm/program/accepted-papers/acda21-accepted-papers'>SIAM ACDA</a>. His talk was on <a href='https://arxiv.org/abs/2102.07945'>Local Hyper-flow Diffusion</a>. You can find the video <a href='https://www.youtube.com/watch?v=CcOIw78zQqw&t=0s'>here</a>.
 
-- 16 May 2021: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='http://proceedings.mlr.press/v139/baranwal21a.html'>Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization</a> was accepted at at <a href='https://icml.cc/Conferences/2021'>ICML 2021</a> with the tag spotlight.
+- 16 May 2021: <a href='https://aseemrb.me'>Aseem</a>'s paper <a href='http://proceedings.mlr.press/v139/baranwal21a.html'>Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization</a> was accepted at <a href='https://icml.cc/Conferences/2021'>ICML 2021</a> as Spotlight, top 6%.
 
 ### Scholarships
 
