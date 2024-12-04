@@ -1,5 +1,5 @@
 - title: "LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models"
-  image: pos_attention.jpg
+  image: lvlm_count.png
   description: Counting is a fundamental skill for various visual tasks in real-life applications, requiring both object recognition and robust counting capabilities. Despite their advanced visual perception, large vision-language models (LVLMs) struggle with counting tasks, especially when the number of objects exceeds those commonly encountered during training. We enhance LVLMs' counting abilities using a divide-and-conquer approach, breaking counting problems into sub-counting tasks. Unlike prior methods, which do not generalize well to counting datasets on which they have not been trained, our method performs well on new datasets without any additional training or fine-tuning. We demonstrate that our approach enhances counting capabilities across various datasets and benchmarks.
   authors: M. F. Qharabagh, M. Ghofrani, K. Fountoulakis
   link:
