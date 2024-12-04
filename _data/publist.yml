@@ -1,3 +1,25 @@
+- title: "LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models"
+  image: pos_attention.jpg
+  description: Counting is a fundamental skill for various visual tasks in real-life applications, requiring both object recognition and robust counting capabilities. Despite their advanced visual perception, large vision-language models (LVLMs) struggle with counting tasks, especially when the number of objects exceeds those commonly encountered during training. We enhance LVLMs' counting abilities using a divide-and-conquer approach, breaking counting problems into sub-counting tasks. Unlike prior methods, which do not generalize well to counting datasets on which they have not been trained, our method performs well on new datasets without any additional training or fine-tuning. We demonstrate that our approach enhances counting capabilities across various datasets and benchmarks.
+  authors: M. F. Qharabagh, M. Ghofrani, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2412.00686
+    display: arXiv:2412.00686
+  highlight: 0
+  news2:
+  code:
+    url: https://github.com/mrghofrani/lvlm-count
+    display: (Code)
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2412.00686
+    display: (Preprint)
+    
 - title: "Positional Attention: Out-of-Distribution Generalization and Expressivity for Neural Algorithmic Reasoning"
   image: pos_attention.jpg
   description: There has been a growing interest in the ability of neural networks to solve algorithmic tasks, such as arithmetic, summary statistics, and sorting. While state-of-the-art models like Transformers have demonstrated good generalization performance on in-distribution tasks, their out-of-distribution (OOD) performance is poor when trained end-to-end. In this paper, we focus on value generalization, a common instance of OOD generalization where the test distribution has the same input sequence length as the training distribution, but the value ranges in the training and test distributions do not necessarily overlap. To address this issue, we propose that using fixed positional encodings to determine attention weights-referred to as positional attention-enhances empirical OOD performance while maintaining expressivity. We support our claim about expressivity by proving that Transformers with positional attention can effectively simulate parallel algorithms.
