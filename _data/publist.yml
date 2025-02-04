@@ -22,7 +22,7 @@
     
 - title: "Positional Attention: Expressivity and Learnability of Algorithmic Computation"
   image: pos_attention.jpg
-  description: There is a growing interest in the ability of neural networks to execute 
+  description: There is a growing interest in the ability of neural networks to execute algorithmic tasks (e.g., arithmetic, summary statistics, and sorting). The goal of this work is to better understand the role of attention in Transformers for algorithmic execution. Its importance for algorithmic execution has been studied theoretically and empirically using parallel computational models. Notably, many parallel algorithms communicate between processors solely using positional information. Inspired by this observation, we investigate how Transformers can execute algorithms using positional attention, where attention weights depend exclusively on positional encodings.
   authors: A. Back de Luca, G. Giapitzakis, S. Yang, P. Veličković, K. Fountoulakis
   link:
     url: https://arxiv.org/abs/2410.01686
