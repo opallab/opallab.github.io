@@ -27,7 +27,7 @@
   link:
     url: https://arxiv.org/abs/2412.00686
     display: arXiv:2412.00686
-  highlight: 0
+  highlight: 1
   news2:
   code:
     url: https://github.com/mrghofrani/lvlm-count
