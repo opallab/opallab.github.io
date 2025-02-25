@@ -1,3 +1,25 @@
+- title: "Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity"
+  image: ntk_perm.jpg
+  description: The ability of an architecture to realize permutations is quite fundamental. For example, Large Language Models need to be able to correctly copy (and perhaps rearrange) parts of the input prompt into the output. Classical universal approximation theorems guarantee the existence of parameter configurations that solve this task but offer no insights into whether gradient-based algorithms can find them. In this paper, we address this gap by focusing on two-layer fully connected feed-forward neural networks and the task of learning permutations on nonzero binary inputs. We show that in the infinite width Neural Tangent Kernel (NTK) regime, an ensemble of such networks independently trained with gradient descent on only the k standard basis vectors out of exponentially many possible inputs successfully learns any fixed permutation of length k with arbitrarily high probability. By analyzing the exact training dynamics, we prove that the network's output converges to a Gaussian process whose mean captures the ground truth permutation via sign-based features. We then demonstrate how averaging these runs (an "ensemble" method) and applying a simple rounding step yields an arbitrarily accurate prediction on any possible input unseen during training. Notably, the number of models needed to achieve exact learning with high probability (which we refer to as ensemble complexity) exhibits a linearithmic dependence on the input size k for a single test input and a quadratic dependence when considering all test inputs simultaneously.
+  authors: G. Giapitzakis, A. Back de Luca, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2502.16763
+    display: arXiv:2502.16763
+  highlight: 1
+  news2:
+  code:
+    url: https://github.com/opallab/permlearn
+    display: (Code)
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2502.16763
+    display: (Preprint)
+    
 - title: "LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models"
   image: lvlm_count.png
   description: Counting is a fundamental skill for various visual tasks in real-life applications, requiring both object recognition and robust counting capabilities. Despite their advanced visual perception, large vision-language models (LVLMs) struggle with counting tasks, especially when the number of objects exceeds those commonly encountered during training. We enhance LVLMs' counting abilities using a divide-and-conquer approach, breaking counting problems into sub-counting tasks. Unlike prior methods, which do not generalize well to counting datasets on which they have not been trained, our method performs well on new datasets without any additional training or fine-tuning. We demonstrate that our approach enhances counting capabilities across various datasets and benchmarks.
