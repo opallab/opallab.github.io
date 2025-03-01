@@ -47,6 +47,8 @@ permalink: /group_achievements
 
 ### Internships
 
+- May/June 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> will join Amazon NY as an intern in May/June 2025.
+
 - 1st of June 2023: <a href='https://aseemrb.me'>Aseem Baranwal</a> joined Microsoft Redmond as an intern for the summer of 2023.
 
 - 23 September 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> joined Amazon NY as an intern in December 2023.
