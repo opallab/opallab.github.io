@@ -23,16 +23,6 @@
   number_educ: 2
   education1: B.Sc. in Mechanical Engineering, Federal University of Santa Catarina
   education2: M.Sc. in Artificial Intelligence and Robotics, Sapienza University of Rome
-  
-- name: <a href="https://cs.uwaterloo.ca/~s286yang/">Shenghao Yang</a>
-  photo: syang.png
-  info: PhD student
-  duration: April 2020 - Now
-  email: shenghao.yang@uwaterloo.ca
-  number_educ: 2
-  education1: Honors B.Sc. in Applied Mathematics, Western University
-  education2: Masters in Combinatorics and Optimization, University of Waterloo
-
 
 #- name: "This could be you !"
 #  photo: rock.jpg
