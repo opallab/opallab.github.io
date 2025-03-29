@@ -262,6 +262,28 @@
     url: https://arxiv.org/abs/2202.13060
     display: (Preprint)
     
+- title: "Open Problem: Running Time Complexity of Accelerated L1-Regularized PageRank"
+  image:
+  description:
+  authors: K. Fountoulakis, S. Yang
+  link:
+    url: https://proceedings.mlr.press/v178/open-problem-fountoulakis22a
+    display: Proceedings of Thirty Fifth Conference on Learning Theory
+  highlight: 0
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url:
+    display:
+    
 - title: "Local Hyper-flow Diffusion"
   image: local_hyper_flow.jpg
   description: A plethora of real-world problems require utilization of hypergraphs and diffusion algorithms. Examples include recommendation systems, node ranking in food networks and community detection in social networks to mention a few. Due to the increased size and complexity of real hypergraphs, local and accurate diffusion algorithms that work with the most complex hypergraphs are in need. We propose the first local diffusion method that works on higher-order relations with only a submodularity assumption. Our method is based on a primal-dual optimization formulation where the primal problem has a natural network flow interpretation, and the dual problem has a cut-based interpretation using the l2-norm penalty for general submodular cut-costs. We prove that the proposed formulation achieves quadratic approximation error for the problem of local hypergraph clustering. We demonstrate that the new technique is significantly better than state-of-the-art methods over a range of real datasets for the local hypergraph clustering and node ranking problems.
