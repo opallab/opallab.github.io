@@ -26,7 +26,11 @@ permalink: /group_achievements
 
 ### Scholarships
 
-- 26 September 2022: <a href='https://www.linkedin.com/in/giorgosgiapis/'>George Giapitzakis Tzintanos</a> was awarded the International Masters Award of Excellence and the Cheriton Scholarship Type II, both from the University of Waterloo, worth a total of 12.5K. 
+- 22 May 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the President's Graduate Scholarship (<a href='https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship'>PGS</a>).
+
+- 22 May 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the Ontario Graduate Scholarship (<a href='https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'>OGS</a>).
+
+- 26 September 2024: <a href='https://www.linkedin.com/in/giorgosgiapis/'>George Giapitzakis Tzintanos</a> was awarded the International Masters Award of Excellence and the Cheriton Scholarship Type II, both from the University of Waterloo, worth a total of 12.5K. 
 
 - 5 January 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the five students that got the Cheriton Scholarship for Winter 2024. That's 10k each year for 2 years.
 
