@@ -1,3 +1,6 @@
+- date: 25 May 2025
+  headline: "New paper: <a href='https://arxiv.org/abs/2502.16763'>Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks</a>."
+  
 - date: 22 May 2025
   headline: "<a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the Ontario Graduate Scholarship (<a href='https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'>OGS</a>) and the President's Graduate Scholarship (<a href='https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship'>PGS</a>)."
   
@@ -6,9 +9,6 @@
   
 - date: 28 February 2025
   headline: "<a href='https://artur-deluca.github.io'>Artur Back de Luca</a> will join Amazon NY as an intern in May/June 2025."
-  
-- date: 24 February 2025
-  headline: "New paper: <a href='https://arxiv.org/abs/2502.16763'>Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity</a>. You can read a brief announcement of it <a href='https://x.com/kfountou/status/1894215840284749832'>here</a>."
   
 - date: 4 February 2025
   headline: "New paper: <a href='https://arxiv.org/abs/2410.01686'>Positional Attention: Expressivity and Learnability of Algorithmic Computation</a>. You can read a brief announcement of it <a href='https://x.com/kfountou/status/1886636672114159936'>here</a>."
