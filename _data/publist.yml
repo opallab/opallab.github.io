@@ -21,7 +21,7 @@
     display: (Preprint)
     
 - title: "Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity"
-  image: ntk_perm.jpg
+  image:
   description:
   authors: G. Giapitzakis, A. Back de Luca, K. Fountoulakis
   link:
