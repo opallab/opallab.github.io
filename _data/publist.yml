@@ -1,7 +1,7 @@
 - title: "Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks"
   image: ntk_perm.jpg
   description: 
-  authors: G. Giapitzakis, A. Back de Luca, K. Fountoulakis
+  authors: A. Back de Luca, G. Giapitzakis, K. Fountoulakis
   link:
     url: https://arxiv.org/abs/2502.16763
     display: arXiv:2502.16763
@@ -18,6 +18,28 @@
     display:
   preprint:
     url: https://arxiv.org/abs/2502.16763
+    display: (Preprint)
+    
+- title: "Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity"
+  image: ntk_perm.jpg
+  description:
+  authors: G. Giapitzakis, A. Back de Luca, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2502.16763v1
+    display: arXiv:2502.16763v1
+  highlight: 0
+  news2:
+  code:
+    url: https://github.com/opallab/binary_algos
+    display: (Code)
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2502.16763v1
     display: (Preprint)
     
 - title: "LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models"
