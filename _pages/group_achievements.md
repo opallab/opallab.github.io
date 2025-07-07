@@ -10,6 +10,8 @@ permalink: /group_achievements
 
 ### Recognitions
 
+- 7 July 2025: <a href='https://aseemrb.me'>Aseem Baranwal</a> won the SCS PhD Dissertation Award!
+
 - 29 November 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the top 20 reviewers at the <a href='https://logconference.org'>Learning on Graphs</a> Conference. See the annoucement <a href='https://x.com/LogConference/status/1862602407395697123'>here</a>.
 
 - 24 April 2023: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao</a>'s paper <a href='https://arxiv.org/abs/2301.13187'>Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees</a> was accepted at ICML 2023 as Oral & Poster, top 3%.
