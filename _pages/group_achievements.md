@@ -10,7 +10,7 @@ permalink: /group_achievements
 
 ### Recognitions
 
-- 7 July 2025: <a href='https://aseemrb.me'>Aseem Baranwal</a> won the SCS PhD Dissertation Award!
+- 7 July 2025: <a href='https://aseemrb.me'>Aseem Baranwal</a> has won the <a href='https://cs.uwaterloo.ca/news/aseem-baranwal-receives-2025-cheriton-distinguished-dissertation-award'>SCS PhD Dissertation Award</a>!
 
 - 29 November 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the top 20 reviewers at the <a href='https://logconference.org'>Learning on Graphs</a> Conference. See the annoucement <a href='https://x.com/LogConference/status/1862602407395697123'>here</a>.
 
