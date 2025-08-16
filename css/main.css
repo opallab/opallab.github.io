@@ -397,7 +397,7 @@ a:hover {
   box-shadow: none;
   height: 100%;
   transition: var(--transition);
-  margin-bottom: 4rem;
+  margin-bottom: -6rem;
 }
 
 #gridid .clearfix:hover {
