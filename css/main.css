@@ -211,7 +211,7 @@ a:hover {
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
   overflow: hidden;
-  max-height: 400px;
+  max-height: 600px;
   overflow-y: auto;
 }
 
@@ -381,11 +381,12 @@ a:hover {
 }
 
 #gridid .row {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 #gridid .col-sm-6 {
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 0 1rem;
 }
 
 #gridid .clearfix {
@@ -395,6 +396,7 @@ a:hover {
   box-shadow: var(--shadow);
   height: 100%;
   transition: var(--transition);
+  margin-bottom: 1rem;
 }
 
 #gridid .clearfix:hover {
@@ -492,11 +494,13 @@ a:hover {
   }
   
   #gridid .col-sm-6 {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding: 0 0.5rem;
   }
   
   #gridid .clearfix {
     padding: 1rem;
+    margin-bottom: 1.5rem;
   }
   
   #gridid img {
@@ -509,8 +513,14 @@ a:hover {
     padding: 1rem 0;
   }
   
+  #gridid .col-sm-6 {
+    margin-bottom: 2.5rem;
+    padding: 0;
+  }
+  
   #gridid .clearfix {
     padding: 0.75rem;
+    margin-bottom: 1.5rem;
   }
   
   #gridid h1, #textid h1 {
