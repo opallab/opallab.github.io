@@ -492,49 +492,88 @@ a:hover {
 /* Responsive adjustments for all layouts */
 @media (max-width: 768px) {
   #gridid, #textid {
-    padding: 1.5rem 0;
+    padding: 1rem 0;
   }
   
   #gridid .col-sm-6 {
-    margin-bottom: 6rem;
-    padding: 0 2rem;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
   }
   
   #gridid .clearfix {
-    padding: 0.5rem;
-    margin-bottom: 4rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
   }
   
   #gridid img {
-    width: 20% !important;
+    width: 25% !important;
+  }
+  
+  /* Fix container padding for mobile */
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 
 @media (max-width: 576px) {
   #gridid, #textid {
-    padding: 1rem 0;
+    padding: 0.5rem 0;
   }
   
   #gridid .col-sm-6 {
-    margin-bottom: 7rem;
+    margin-bottom: 1.5rem;
     padding: 0;
   }
   
   #gridid .clearfix {
-    padding: 0.5rem;
-    margin-bottom: 4rem;
+    padding: 0.75rem;
+    margin-bottom: 1.5rem;
   }
   
   #gridid h1, #textid h1 {
-    font-size: 2rem;
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
   }
   
   #gridid h2, #textid h2, #textid h3 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    margin: 1rem 0 0.5rem 0;
   }
   
   #gridid h4 {
+    font-size: 1rem;
+    margin: 0.75rem 0 0.25rem 0;
+  }
+  
+  /* Fix container padding for small mobile */
+  .container {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+  
+  /* Fix hero section for mobile */
+  .hero-section {
+    padding: 2rem 0;
+  }
+  
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
     font-size: 1.1rem;
+  }
+  
+  /* Fix news panel for mobile */
+  .hero-news {
+    max-height: 400px;
+  }
+  
+  /* Fix publication margins for mobile */
+  #gridid .well {
+    margin: 0 0 1rem 0;
+    padding: 1rem;
   }
 }
 
