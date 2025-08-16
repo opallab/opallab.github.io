@@ -211,7 +211,7 @@ a:hover {
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
   overflow: hidden;
-  max-height: 600px;
+  max-height: 550px;
   overflow-y: auto;
 }
 
