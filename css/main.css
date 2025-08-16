@@ -406,7 +406,7 @@ a:hover {
 }
 
 #gridid img {
-  border-radius: 50%;
+  border-radius: 8px;
   border: 3px solid var(--light-color);
   box-shadow: var(--shadow);
 }
