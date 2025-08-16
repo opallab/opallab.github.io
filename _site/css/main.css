@@ -211,7 +211,7 @@ a:hover {
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
   overflow: hidden;
-  max-height: 600px;
+  max-height: 550px;
   overflow-y: auto;
 }
 
@@ -393,20 +393,23 @@ a:hover {
   background: white;
   padding: 0.75rem;
   border-radius: var(--border-radius);
-  box-shadow: var(--shadow);
+  /* box-shadow: var(--shadow); */
+  box-shadow: none;
   height: 100%;
   transition: var(--transition);
-  margin-bottom: 4rem;
+  margin-bottom: -4rem;
 }
 
 #gridid .clearfix:hover {
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); */
+  box-shadow: none;
 }
 
 #gridid img {
-  border-radius: 50%;
+  border-radius: 8px;
   border: 3px solid var(--light-color);
   box-shadow: var(--shadow);
+  margin-right: 1rem; 
 }
 
 #gridid i {
@@ -431,7 +434,7 @@ a:hover {
   border: 1px solid var(--border-color);
   border-radius: var(--border-radius);
   padding: 1.5rem;
-  margin: 0;
+  margin: 0 0 2rem 0;
   box-shadow: var(--shadow);
 }
 
@@ -662,11 +665,13 @@ a:hover {
 
 .news-content {
   padding: 1.5rem;
+  text-align: left;
 }
 
 .news-item {
   padding: 1rem 0;
   border-bottom: 1px solid var(--border-color);
+  text-align: left;
 }
 
 .news-item:last-child {
