@@ -447,7 +447,7 @@ a:hover {
   color: var(--accent-color) !important;
 }
 
-/* Text layout styling for achievements */
+/* Text layout styling for achievements and news */
 #textid ul {
   list-style: none;
   padding: 0;
@@ -473,6 +473,16 @@ a:hover {
 #textid a:hover {
   color: var(--primary-color);
   text-decoration: underline;
+}
+
+/* News page specific styling */
+#textid h3 {
+  margin-top: 2rem;
+}
+
+#textid li strong {
+  color: var(--primary-color);
+  font-weight: 600;
 }
 
 /* Responsive adjustments for all layouts */
@@ -686,6 +696,7 @@ a:hover {
 .mt-3 { margin-top: 1rem; }
 .mt-2 { margin-top: 0.75rem; }
 .mt-1 { margin-top: 0.5rem; }
+.p-4 { padding: 1.5rem; }
 .p-4 { padding: 1.5rem; }
 .p-3 { padding: 1rem; }
 .p-2 { padding: 0.75rem; }

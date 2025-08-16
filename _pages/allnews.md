@@ -8,7 +8,8 @@ permalink: /allnews.html
 
 # News
 
+### Recent Updates
+
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+- **{{ article.date }}**: {{ article.headline }}
 {% endfor %}
