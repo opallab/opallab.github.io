@@ -6,15 +6,36 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The OpAL Lab
-email: your-email@domain.com
+title: "The OpAL Lab"
+email: "kimon.fountoulakis@uwaterloo.ca"
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Optimization, Analytics, and Learning (OpAL) Lab at the Cheriton School of Computer Science, 
+  University of Waterloo. We work on machine learning and artificial intelligence models for reasoning 
+  and graph-structured data.
 
 url: "https://opallab.ca"
 baseurl: ""
+
+# Author information
+author:
+  name: "Kimon Fountoulakis"
+  email: "kimon.fountoulakis@uwaterloo.ca"
+  bio: "Associate Professor, Cheriton School of Computer Science"
+  location: "University of Waterloo"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/opallab"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCfFSCwDsARA-BCHx6Hlm07Q"
+
+# Social media
+social:
+  - name: "GitHub"
+    url: "https://github.com/opallab"
+  - name: "YouTube"
+    url: "https://www.youtube.com/channel/UCfFSCwDsARA-BCHx6Hlm07Q"
 
 include:
   - .htaccess
@@ -30,7 +51,17 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:title/
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 # Markdown Processing
 kramdown:
@@ -43,4 +74,17 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 

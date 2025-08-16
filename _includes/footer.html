@@ -1,28 +1,61 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-              <p>We are part of the <a href="https://cs.uwaterloo.ca/">Cheriton School of Computer Science</a> at the <a href="https://uwaterloo.ca">University of Waterloo</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-          David R. Cheriton School of Computer Science<br />
-          University of Waterloo<br />
-		  200 University Ave W<br />
-		  Waterloo ON N2L3G1<br />
-		  Canada <br />
-            (<a href="https://goo.gl/maps/Mb7SKLUvmSoPPZTAA">Maps</a>, <a href="https://cs.uwaterloo.ca/about/visit-us">Visit us</a>)
-		</div>
-	  </div>
-	</div>
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-content">
+      <div class="row">
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="footer-section">
+            <h5 class="footer-title">{{ site.title }}</h5>
+            <p class="footer-description">
+              The Optimization, Analytics, and Learning Lab at the Cheriton School of Computer Science, 
+              University of Waterloo.
+            </p>
+            <div class="social-links">
+              {% for link in site.author.links %}
+              <a href="{{ link.url }}" class="social-link" aria-label="{{ link.label }}" target="_blank" rel="noopener">
+                <i class="{{ link.icon }}" aria-hidden="true"></i>
+              </a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="footer-section">
+            <h5 class="footer-title">Quick Links</h5>
+            <ul class="footer-links">
+              <li><a href="{{ site.baseurl }}/team">Team</a></li>
+              <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+              <li><a href="{{ site.baseurl }}/group_achievements">Achievements</a></li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="footer-section">
+            <h5 class="footer-title">Contact</h5>
+            <div class="contact-info">
+              <p><i class="fas fa-user" aria-hidden="true"></i> {{ site.author.name }}</p>
+              <p><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+              <p><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.author.location }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <p class="copyright">
+            &copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.
+          </p>
+        </div>
+        <div class="col-md-6 text-md-end">
+          <p class="powered-by">
+            Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+</footer>

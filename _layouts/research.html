@@ -1,6 +1,113 @@
 ---
 layout: default
 ---
-<div id="research" class="col-sm-12">
-  {{ content }}
+
+<div class="research-layout">
+  <div class="container">
+    <!-- Page Header -->
+    <div class="page-header text-center">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <p class="page-subtitle">{{ page.excerpt }}</p>
+    </div>
+
+    <!-- Research Overview -->
+    <section class="research-overview">
+      <div class="row align-items-center">
+        <div class="col-lg-8">
+          <div class="research-content">
+            <h2>Research Focus</h2>
+            <p>
+              Our goal in OpAL is to develop and implement new optimization formulations and algorithms 
+              for machine learning problems on graphs. We like to view graph-based machine learning 
+              problems and procedures from an optimization perspective, although they might not always 
+              be posed that way. We are equally interested in theory and in practice.
+            </p>
+            
+            <h3>Key Research Questions</h3>
+            <ul>
+              <li>What is the worst-case running time of an optimization algorithm?</li>
+              <li>What is the worst-case iteration complexity of an optimization algorithm?</li>
+              <li>What are the prediction guarantees of a graph-based machine learning model?</li>
+              <li>How do we parallelize optimization algorithms for graph-based machine learning in a communication efficient way?</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="research-visual">
+            <img src="{{ site.baseurl }}/images/respic/sbm-example-louvian.pdf" 
+                 alt="Research visualization" class="img-fluid research-image">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Current Research Areas -->
+    <section class="research-areas">
+      <h2>Current Research Areas</h2>
+      
+      <div class="research-area">
+        <div class="row align-items-center">
+          <div class="col-lg-8">
+            <h3>Local Graph Properties and Community Detection</h3>
+            <p>
+              Currently, we pay special attention to local properties of the graph structure. Our goal 
+              is to exploit small- and meso-scale information from the graph to find tiny communities 
+              in huge graphs with provable guarantees and running time that depends on the size of the 
+              output instead of the size of the whole graph.
+            </p>
+          </div>
+          <div class="col-lg-4">
+            <img src="{{ site.baseurl }}/images/respic/usroads-flow-embed-u01-permute.png" 
+                 alt="Local graph clustering visualization" class="img-fluid research-image">
+          </div>
+        </div>
+      </div>
+      
+      <div class="research-area">
+        <h3>Graph Neural Networks and Theoretical Learning</h3>
+        <p>
+          We are interested in graph neural networks from a theoretical learning perspective and in 
+          particular our goal is to understand their inductive biases.
+        </p>
+      </div>
+      
+      <div class="research-area">
+        <h3>Parallel and Communication-Efficient Optimization</h3>
+        <p>
+          We are currently working to develop parallel and communication efficient optimization 
+          algorithms for training graph neural networks that utilize attribute information in addition 
+          to the graph. The new methods will allow us to further speed-up applications such as node 
+          classification, link-prediction, community detection, graph classification and graph generation.
+        </p>
+      </div>
+    </section>
+
+    <!-- Past Research -->
+    <section class="past-research">
+      <h2>Past Research</h2>
+      <p>
+        In the past we have worked on inexpensive higher-order methods for regression and classification 
+        problems in signal processing and machine learning. We developed new Newton-type and Interior-Point 
+        Methods and we focused on developing preconditioners for linear systems that arise in higher-order 
+        optimization methods.
+      </p>
+      
+      <p>
+        Higher-order methods are especially efficient on ill-conditioned problems where first-order 
+        methods might perform poorly or even stagnate far away from a local or global minimizer. We 
+        worked on worst-case iteration complexity results for our methods as well as guarantees of the 
+        preconditioners that we developed.
+      </p>
+    </section>
+
+    <!-- Research Principles -->
+    <section class="research-principles">
+      <h2>Research Principles</h2>
+      <p>
+        Although our application focus changes depending on academic needs and industrial needs of our 
+        scientific community, the principles and the tools (optimization, linear algebra, statistics and 
+        computing) based on which we conduct research remain the same.
+      </p>
+    </section>
+  </div>
 </div>

@@ -1,6 +1,153 @@
 ---
 layout: default
 ---
-<div id="group_achievements" class="col-sm-12">
-  {{ content }}
+
+<div class="achievements-layout">
+  <div class="container">
+    <!-- Page Header -->
+    <div class="page-header text-center">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <p class="page-subtitle">{{ page.excerpt }}</p>
+    </div>
+
+    <!-- Achievements Content -->
+    <div class="achievements-content">
+      {{ content }}
+    </div>
+
+    <!-- Awards and Recognition -->
+    <section class="awards-section">
+      <div class="section-header text-center">
+        <h2 class="section-title">
+          <i class="fas fa-trophy" aria-hidden="true"></i>
+          Awards and Recognition
+        </h2>
+        <p class="section-subtitle">Celebrating our team's accomplishments and contributions to the field</p>
+      </div>
+      
+      <div class="row">
+        <div class="col-lg-6 mb-4">
+          <div class="achievement-card">
+            <div class="achievement-icon">
+              <i class="fas fa-medal" aria-hidden="true"></i>
+            </div>
+            <h3>Best Paper Awards</h3>
+            <p>Our research has been recognized with multiple best paper awards at prestigious conferences including ICLR, ICML, and NeurIPS.</p>
+          </div>
+        </div>
+        
+        <div class="col-lg-6 mb-4">
+          <div class="achievement-card">
+            <div class="achievement-icon">
+              <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+            </div>
+            <h3>Student Success</h3>
+            <p>Our students have received numerous scholarships and fellowships including NSERC, OGS, and industry awards from companies like Google and Amazon.</p>
+          </div>
+        </div>
+        
+        <div class="col-lg-6 mb-4">
+          <div class="achievement-card">
+            <div class="achievement-icon">
+              <i class="fas fa-users" aria-hidden="true"></i>
+            </div>
+            <h3>Industry Collaborations</h3>
+            <p>Strong partnerships with leading tech companies including Google, Amazon, and XTX Markets for research and internships.</p>
+          </div>
+        </div>
+        
+        <div class="col-lg-6 mb-4">
+          <div class="achievement-card">
+            <div class="achievement-icon">
+              <i class="fas fa-chart-line" aria-hidden="true"></i>
+            </div>
+            <h3>Research Impact</h3>
+            <p>Our work has been published in top-tier venues and has influenced the development of graph neural networks and optimization algorithms.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Highlights -->
+    <section class="highlights-section">
+      <div class="section-header text-center">
+        <h2 class="section-title">
+          <i class="fas fa-star" aria-hidden="true"></i>
+          Recent Highlights
+        </h2>
+      </div>
+      
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <h4>2025 - ICML 2025 Acceptance</h4>
+            <p>Multiple papers accepted at the International Conference on Machine Learning (ICML) 2025.</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <h4>2024 - NeurIPS 2024 Acceptance</h4>
+            <p>Research on corrected graph convolutions accepted at NeurIPS 2024.</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <h4>2023 - Multiple Conference Acceptances</h4>
+            <p>Papers accepted at ICLR, ICML, and NeurIPS with notable recognition.</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <h4>2022 - Best Paper Award</h4>
+            <p>Graph Attention Retrospective won best paper award at GroundedML workshop.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Funding and Support -->
+    <section class="funding-section">
+      <div class="section-header text-center">
+        <h2 class="section-title">
+          <i class="fas fa-handshake" aria-hidden="true"></i>
+          Funding and Support
+        </h2>
+        <p class="section-subtitle">We are grateful for the support from our funding partners</p>
+      </div>
+      
+      <div class="funding-partners">
+        <div class="row align-items-center">
+          <div class="col-md-4 text-center mb-4">
+            <div class="partner-logo">
+              <img src="{{ site.baseurl }}/images/logopic/Waterloo.jpg" alt="University of Waterloo" class="img-fluid">
+              <h4>University of Waterloo</h4>
+            </div>
+          </div>
+          
+          <div class="col-md-4 text-center mb-4">
+            <div class="partner-logo">
+              <img src="{{ site.baseurl }}/images/logopic/NSERC.png" alt="NSERC" class="img-fluid">
+              <h4>NSERC</h4>
+              <p>Natural Sciences and Engineering Research Council</p>
+            </div>
+          </div>
+          
+          <div class="col-md-4 text-center mb-4">
+            <div class="partner-logo">
+              <img src="{{ site.baseurl }}/images/logopic/darpa.jpg" alt="DARPA" class="img-fluid">
+              <h4>DARPA</h4>
+              <p>Defense Advanced Research Projects Agency</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
 </div>

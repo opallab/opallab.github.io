@@ -1,7 +1,138 @@
 ---
 layout: default
 ---
-<div id="team" class="col-sm-12">
-  {{ content }}
+
+<div class="team-layout">
+  <div class="container">
+    <!-- Page Header -->
+    <div class="page-header text-center">
+      <h1 class="page-title">{{ page.title }}</h1>
+      <p class="page-subtitle">{{ page.excerpt }}</p>
+    </div>
+
+    <!-- Principal Investigator -->
+    <section class="team-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <i class="fas fa-user-tie" aria-hidden="true"></i>
+          Principal Investigator
+        </h2>
+      </div>
+      <div class="row">
+        {% for member in site.data.pi %}
+        <div class="col-lg-6 col-md-8 mx-auto">
+          <div class="member-card pi-card">
+            <div class="member-photo">
+              <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                   alt="Photo of {{ member.name }}" class="img-fluid">
+            </div>
+            <div class="member-info">
+              <h3 class="member-name">{{ member.name }}</h3>
+              <p class="member-title">{{ member.info }}</p>
+              <p class="member-email">
+                <i class="fas fa-envelope" aria-hidden="true"></i>
+                <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+              </p>
+              <div class="member-education">
+                <h4>Education</h4>
+                <ul>
+                  {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+                  {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+                  {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+                  {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
+                  {% if member.number_educ >= 5 %}<li>{{ member.education5 }}</li>{% endif %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <!-- Graduate Members -->
+    <section class="team-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+          Graduate Members
+        </h2>
+      </div>
+      <div class="row">
+        {% for member in site.data.graduate_members %}
+        <div class="col-lg-6 col-md-6 mb-4">
+          <div class="member-card">
+            <div class="member-photo">
+              <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                   alt="Photo of {{ member.name }}" class="img-fluid">
+            </div>
+            <div class="member-info">
+              <h3 class="member-name">{{ member.name }}</h3>
+              <p class="member-title">{{ member.info }}</p>
+              <p class="member-duration">
+                <i class="fas fa-calendar" aria-hidden="true"></i>
+                {{ member.duration }}
+              </p>
+              <p class="member-email">
+                <i class="fas fa-envelope" aria-hidden="true"></i>
+                <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+              </p>
+              <div class="member-education">
+                <h4>Education</h4>
+                <ul>
+                  {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+                  {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+                  {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+                  {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
+                  {% if member.number_educ >= 5 %}<li>{{ member.education5 }}</li>{% endif %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <!-- Former Members -->
+    <section class="team-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <i class="fas fa-history" aria-hidden="true"></i>
+          Former Members
+        </h2>
+      </div>
+      <div class="row">
+        {% for member in site.data.former_members %}
+        <div class="col-lg-6 col-md-6 mb-4">
+          <div class="member-card alumni-card">
+            <div class="member-photo">
+              <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+                   alt="Photo of {{ member.name }}" class="img-fluid">
+            </div>
+            <div class="member-info">
+              <h3 class="member-name">{{ member.name }}</h3>
+              <p class="member-title">{{ member.info }}</p>
+              <p class="member-email">
+                <i class="fas fa-envelope" aria-hidden="true"></i>
+                <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+              </p>
+              <div class="member-education">
+                <h4>Education</h4>
+                <ul>
+                  {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+                  {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+                  {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+                  {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
+                  {% if member.number_educ >= 5 %}<li>{{ member.education5 }}</li>{% endif %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
 </div>
 
