@@ -662,11 +662,13 @@ a:hover {
 
 .news-content {
   padding: 1.5rem;
+  text-align: left;
 }
 
 .news-item {
   padding: 1rem 0;
   border-bottom: 1px solid var(--border-color);
+  text-align: left;
 }
 
 .news-item:last-child {
