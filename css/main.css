@@ -409,6 +409,8 @@ a:hover {
   border-radius: 8px;
   border: 3px solid var(--light-color);
   box-shadow: var(--shadow);
+  margin-right: 1rem; 
+  width: 50%;
 }
 
 #gridid i {
