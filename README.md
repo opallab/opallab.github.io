@@ -1,6 +1,6 @@
-# The OpAL Lab Website
+# The WatCL Lab Website
 
-A modern, responsive academic website for the Optimization, Analytics, and Learning (OpAL) Lab at the Cheriton School of Computer Science, University of Waterloo.
+A modern, responsive academic website for the Waterloo Computational Learning (WatCL) Lab at the Cheriton School of Computer Science, University of Waterloo.
 
 ## 🚀 Features
 
@@ -24,7 +24,7 @@ A modern, responsive academic website for the Optimization, Analytics, and Learn
 ## 📁 Project Structure
 
 ```
-opallab.github.io/
+watcl.github.io/
 ├── _config.yml          # Jekyll configuration
 ├── _data/               # Data files (team, publications, news)
 ├── _includes/           # Reusable HTML components
@@ -48,8 +48,8 @@ opallab.github.io/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/opallab/opallab.github.io.git
-   cd opallab.github.io
+   git clone https://github.com/opallab/watcl.github.io.git
+   cd watcl.github.io
    ```
 
 2. **Install dependencies**
@@ -244,7 +244,7 @@ For questions about the website or lab:
 
 - **Lab Director**: Kimon Fountoulakis
 - **Email**: kimon.fountoulakis@uwaterloo.ca
-- **Website**: https://opallab.ca
+- **Website**: https://watcl.ca
 
 ## 🙏 Acknowledgments
 
