@@ -1,5 +1,5 @@
 ---
-title: "OpAL Lab - Group Achievements"
+title: "WatCL Lab - Group Achievements"
 layout: textlay
 excerpt: "Group Achievements"
 sitemap: false

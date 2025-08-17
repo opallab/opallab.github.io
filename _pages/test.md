@@ -1,5 +1,5 @@
 ---
-title: "OpAL Lab - Test"
+title: "WatCL Lab - Test"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

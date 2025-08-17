@@ -1,7 +1,7 @@
 ---
-title: "OpAL Lab - Publications"
+title: "WatCL Lab - Publications"
 layout: gridlay
-excerpt: "OpAL Lab -- Publications."
+excerpt: "WatCL Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

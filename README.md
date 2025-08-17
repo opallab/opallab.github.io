@@ -255,4 +255,4 @@ For questions about the website or lab:
 
 ---
 
-**The OpAL Lab** - Advancing machine learning and artificial intelligence through optimization and analytics.
+**The WatCL Lab** - Machine learning and artificial intelligence.
