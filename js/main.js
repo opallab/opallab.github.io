@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Export functions for potential external use
-window.OpALLab = {
+window.WatCLLab = {
     initNavigation,
     initSmoothScrolling,
     initAnimations
