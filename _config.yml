@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "The OpAL Lab"
+title: "WatCL Lab"
 email: "kimon.fountoulakis@uwaterloo.ca"
 description: > # this means to ignore newlines until "baseurl:"
-  The Optimization, Analytics, and Learning (OpAL) Lab at the Cheriton School of Computer Science, 
+  The Waterloo Computational Learning (WatCL) Lab at the Cheriton School of Computer Science, 
   University of Waterloo. We work on machine learning and artificial intelligence models for reasoning 
   and graph-structured data.
 
-url: "https://opallab.ca"
+url: "https://watcl.ca"
 baseurl: ""
 
 # Author information
