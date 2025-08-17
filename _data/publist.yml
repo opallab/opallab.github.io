@@ -8,7 +8,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/binary_algos
+    url: https://github.com/watcl-lab/binary_algos
     display: (Code)
   slides:
     url:
@@ -30,7 +30,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/binary_algos
+    url: https://github.com/watcl-lab/binary_algos
     display: (Code)
   slides:
     url:
@@ -74,7 +74,7 @@
   highlight: 1
   news2:
   code:
-    url: https://github.com/opallab/positional_attention
+    url: https://github.com/watcl-lab/positional_attention
     display: (Code)
   slides:
     url:
@@ -140,7 +140,7 @@
   highlight: 1
   news2:
   code:
-    url: https://github.com/opallab/graphalgosimulation
+    url: https://github.com/watcl-lab/graphalgosimulation
     display: (Code)
   slides:
     url:
@@ -184,7 +184,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/optimality-mp-archs-sparse-graphs
+    url: https://github.com/watcl-lab/optimality-mp-archs-sparse-graphs
     display: (Code)
   slides:
     url:
@@ -228,7 +228,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/on-classification-thresholds-for-graph-attention-with-edge-features/tree/main
+    url: https://github.com/watcl-lab/on-classification-thresholds-for-graph-attention-with-edge-features/tree/main
     display: (Code)
   slides:
     url:
@@ -250,7 +250,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/Effects-of-Graph-Convs-in-Deep-Nets
+    url: https://github.com/watcl-lab/Effects-of-Graph-Convs-in-Deep-Nets
     display: (Code)
   slides:
     url:
@@ -272,7 +272,7 @@
   highlight: 1
   news2: Best paper award at the <a href='https://sites.google.com/view/groundedml2022'>GroundedML</a> workshop at ICLR 2022.
   code:
-    url: https://github.com/opallab/Graph-Attention-Retrospective/
+    url: https://github.com/watcl-lab/Graph-Attention-Retrospective/
     display: (Code)
   slides:
     url:
@@ -316,7 +316,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/Local-Hyper-flow-Diffusion
+    url: https://github.com/watcl-lab/Local-Hyper-flow-Diffusion
     display: (Code)
   slides:
     url:
@@ -338,7 +338,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.
+    url: https://github.com/watcl-lab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.
     display: (Code)
   slides:
     url:
@@ -360,7 +360,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/TargetedPandemicContainment
+    url: https://github.com/watcl-lab/TargetedPandemicContainment
     display: (Code)
   slides:
     url:
@@ -382,7 +382,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/pNormFlowDiffusion
+    url: https://github.com/watcl-lab/pNormFlowDiffusion
     display: (Code)
   slides:
     url:
@@ -404,7 +404,7 @@
   highlight: 0
   news2:
   code:
-    url: https://github.com/opallab/LocalGraphClustering
+    url: https://github.com/watcl-lab/LocalGraphClustering
     display: (Code)
   slides:
     url:
