@@ -1,3 +1,25 @@
+- title: "On the Statistical Query Complexity of Learning Semiautomata: a Random Walk Approach"
+  image:
+  description: "Semiautomata form a rich class of sequence-processing algorithms with applications in natural language processing, robotics, computational biology, and data mining. We establish the first Statistical Query hardness result for semiautomata under the uniform distribution over input words and initial states. We show that Statistical Query hardness can be established when both the alphabet size and input length are polynomial in the number of states. Unlike the case of deterministic finite automata, where hardness typically arises through the hardness of the language they recognize (e.g., parity), our result is derived solely from the internal state-transition structure of semiautomata. Our analysis reduces the task of distinguishing the final states of two semiautomata to studying the behavior of a random walk on the product of the symmetric group. By applying tools from Fourier analysis and the representation theory of the symmetric group, we obtain tight spectral gap bounds, demonstrating that after a polynomial number of steps in the number of states, distinct semiautomata become nearly uncorrelated, yielding the desired hardness result."
+  authors: G. Giapitzakis, K. Fountoulakis, E. Nichani, J. D. Lee
+  link:
+    url: https://arxiv.org/abs/2510.04115
+    display: arXiv:2510.04115
+  highlight: 1
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2510.04115
+    display: (Preprint)
+    
 - title: "Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks"
   image: ntk_perm.jpg
   description: "Neural networks are known for their ability to approximate smooth functions, yet they fail to generalize perfectly to unseen inputs when trained on discrete operations. Such operations lie at the heart of algorithmic tasks such as arithmetic, which is often used as a test bed for algorithmic execution in neural networks. In this work, we ask: can neural networks learn to execute binary-encoded algorithmic instructions exactly? We use the Neural Tangent Kernel (NTK) framework to study the training dynamics of two-layer fully connected networks in the infinite-width limit and show how a sufficiently large ensemble of such models can be trained to execute exactly, with high probability, four fundamental tasks: binary permutations, binary addition, binary multiplication, and Subtract and Branch if Negative (SBN) instructions. Since SBN is Turing-complete, our framework extends to computable functions. We show how this can be efficiently achieved using only logarithmically many training data. Our approach relies on two techniques: structuring the training data to isolate bit-level rules, and controlling correlations in the NTK regime to align model predictions with the target algorithmic executions."
@@ -203,7 +225,7 @@
   link:
     url: https://proceedings.mlr.press/v202/yang23d/yang23d.pdf
     display: International Conference on Machine Learning (ICML) 2023, **Oral**
-  highlight: 1
+  highlight: 0
   news2:
   code:
     url: https://github.com/s-h-yang/WFD
