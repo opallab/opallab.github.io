@@ -30,6 +30,8 @@ permalink: /group_achievements
 
 ### Scholarships
 
+- 1 December 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the Layer 6 - TD Graduate Scholarship in Data and AI (<a href='https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/layer-6-td-graduate-scholarship-data-and-ai'>TD - Layer 6</a>).
+
 - 22 May 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the President's Graduate Scholarship (<a href='https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship'>PGS</a>).
 
 - 22 May 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the Ontario Graduate Scholarship (<a href='https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'>OGS</a>).
