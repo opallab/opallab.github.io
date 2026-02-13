@@ -30,6 +30,8 @@ permalink: /group_achievements
 
 ### Scholarships
 
+- 13 February 2026: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> has been awarded the <a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program'>NSERC Post Doctoral Fellowship</a>.
+
 - 9 January 2026: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> is one of the four students that got the Cheriton Scholarship for Fall 2025. That's 10k each year for 2 years.
 
 - 1 December 2025: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has been awarded the Layer 6 - TD Graduate Scholarship in Data and AI (<a href='https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/layer-6-td-graduate-scholarship-data-and-ai'>TD - Layer 6</a>).
