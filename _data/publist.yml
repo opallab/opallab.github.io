@@ -1,3 +1,25 @@
+- title: "Complexity of Classical Acceleration for $\\ell_1$-Regularized PageRank"
+  image: complexity_l1.jpg
+  description: "We study the degree-weighted work required to compute $\\ell_1$-regularized PageRank using the standard one-gradient-per-iteration accelerated proximal-gradient method (FISTA). For non-accelerated local methods, the best known worst-case work scales as $\\widetilde{O} ((αρ)^{-1})$, where $α$ is the teleportation parameter and $ρ$ is the $\\ell_1$-regularization parameter. A natural question is whether FISTA can improve the dependence on $α$ from $1/α$ to $1/\\sqrt{α}$ while preserving the $1/ρ$ locality scaling. The challenge is that acceleration can break locality by transiently activating nodes that are zero at optimality, thereby increasing the cost of gradient evaluations. We analyze FISTA on a slightly over-regularized objective and show that, under a checkable confinement condition, all spurious activations remain inside a boundary set $\\mathcal{B}$. This yields a bound consisting of an accelerated $(ρ\\sqrt{α})^{-1}\\log(α/\\varepsilon)$ term plus a boundary overhead $\\sqrt{vol(\\mathcal{B})}/(ρα^{3/2})$. We provide graph-structural conditions that imply such confinement. Experiments on synthetic and real graphs show the resulting speedup and slowdown regimes under the degree-weighted work model."
+  authors: K. Fountoulakis, D. Martínez-Rubio
+  link:
+    url: https://arxiv.org/abs/2602.21138
+    display: arXiv:2602.21138
+  highlight: 1
+  news2:
+  code:
+    url: https://github.com/watcl-lab/accelerated_l1_PageRank_experiments 
+    display: (Code)
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2602.21138
+    display: (Preprint)
+
 - title: "Learning to Execute Graph Algorithms Exactly with Graph Neural Networks"
   image: gnn_exact.jpg
   description: "Understanding what graph neural networks can learn, especially their ability to learn to execute algorithms, remains a central theoretical challenge. In this work, we prove exact learnability results for graph algorithms under bounded-degree and finite-precision constraints. Our approach follows a two-step process. First, we train an ensemble of multi-layer perceptrons (MLPs) to execute the local instructions of a single node. Second, during inference, we use the trained MLP ensemble as the update function within a graph neural network (GNN). Leveraging Neural Tangent Kernel (NTK) theory, we show that local instructions can be learned from a small training set, enabling the complete graph algorithm to be executed during inference without error and with high probability. To illustrate the learning power of our setting, we establish a rigorous learnability result for the LOCAL model of distributed computation. We further demonstrate positive learnability results for widely studied algorithms such as message flooding, breadth-first and depth-first search, and Bellman-Ford."
