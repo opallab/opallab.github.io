@@ -1,3 +1,12 @@
+- date: 30 April 2026
+  headline: "Our paper <a href='https://arxiv.org/abs/2601.23207'>Learning to Execute Graph Algorithms Exactly with Graph Neural Networks</a> was accepted at ICML 2026 as a spotlight (top 2.2%)."
+
+- date: 22 April 2026
+  headline: "<a href='https://artur-deluca.github.io'>Artur Back de Luca</a> received the NSERC Canada Graduate Research Scholarship."
+
+- date: 17 April 2026
+  headline: "<a href='https://ggiapitz.me'>George Giapitzakis</a> was accepted as a PhD student at CMU, Yale, NYU and Harvard."
+
 - date: 25 February 2026
   headline: "GPT-5.2 solves our COLT 2022 open problem about the complexity of accelerated gradient descent for l1-regularized PageRank (<a href='https://arxiv.org/abs/2602.21138'>Version 2, the paper</a>). You can read more about it <a href='https://x.com/kfountou/status/2026480631341789566'>here</a>."
 
