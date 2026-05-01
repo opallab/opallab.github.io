@@ -1,3 +1,13 @@
+- name: <a href="https://ggiapitz.me">George Giapitzakis Tzintanos</a>
+  photo: george.jpeg
+  info: MMath student
+  duration: September 2024 - April 2026
+  email: ggiapitz@uwaterloo.ca
+  number_educ: 3
+  education1: B.Sc. in Pure Matehmatics, National and Kapodistrian University of Athens
+  education2: Masters in Computer Science, University of Waterloo
+  education3: Now a PhD student at Carnegie Mellon University.
+  
 - name: <a href="https://cs.uwaterloo.ca/~s286yang/">Shenghao Yang</a>
   photo: syang.png
   info: PhD student
