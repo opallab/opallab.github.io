@@ -77,6 +77,8 @@ permalink: /group_achievements
 
 ### Jobs
 
+- 17 April 2026: <a href='https://ggiapitz.me'>George Giapitzakis</a> was accepted as a PhD student at CMU, Yale, NYU and Harvard.
+
 - 1 July 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> will join the <a href='https://www.xtxmarkets.com/career/xty-labs-ai-residency/'>AI residency program at XTY Labs</a>.
 
 - 23 October 2024: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> joined the Department of Statistics at the University of California, Berkeley, to work with <a href='https://www.stat.berkeley.edu/~mmahoney/'>Michael Mahoney</a> as postdoctoral fellow.
