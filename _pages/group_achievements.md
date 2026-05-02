@@ -10,6 +10,8 @@ permalink: /group_achievements
 
 ### Recognitions
 
+- 30 April 2026: Muhammad's paper <a href='https://arxiv.org/abs/2601.23207'>Learning to Execute Graph Algorithms Exactly with Graph Neural Networks</a> was accepted at ICML 2026 as Spotlight, top 2.2%.
+
 - 7 July 2025: <a href='https://aseemrb.me'>Aseem Baranwal</a> has won the <a href='https://cs.uwaterloo.ca/news/aseem-baranwal-receives-2025-cheriton-distinguished-dissertation-award'>SCS PhD Dissertation Award</a>!
 
 - 29 November 2024: <a href='https://aseemrb.me'>Aseem Baranwal</a> is one of the top 20 reviewers at the <a href='https://logconference.org'>Learning on Graphs</a> Conference. See the annoucement <a href='https://x.com/LogConference/status/1862602407395697123'>here</a>.
