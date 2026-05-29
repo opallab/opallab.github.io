@@ -1,3 +1,25 @@
+- title: "Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization"
+  image:
+  description: "As state-of-the-art neural networks are deployed on reasoning and algorithmic tasks, exactness guarantees become increasingly important. However, high average-case accuracy can still mask inconsistent behaviors. This motivates exact certification, which asks for the smallest set of labeled examples needed to certify that a learned hypothesis equals the target. We show that while some hypotheses are easy to certify, even minimal overparametrization can make certification exponentially hard across several hypothesis classes. For threshold circuits of depth larger or equal to two, adding a single extra gate can force certificate sizes exponential in the input dimension. We show an analogous hardness result for log-precision Transformers with only constant architectural overhead. We also characterize approximate certification, showing that allowing only polynomially many mistakes still requires exponentially large certificates, whereas constant relative-error guarantees can hide exponentially many failures. Empirically, we study certification for circuits and Transformers trained to recognize binary addition and find that imperfect models can evade detection unless the certificate is exponentially large."
+  authors: A. Back de Luca, K. Fountoulakis
+  link:
+    url: https://arxiv.org/abs/2605.22964
+    display: arXiv:2605.22964
+  highlight: 0
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2605.22964
+    display: (Preprint)
+
 - title: "Complexity of Classical Acceleration for L1-Regularized PageRank"
   image: complexity_l1.jpg
   description: "We study the degree-weighted work required to compute L1-regularized PageRank using the standard one-gradient-per-iteration accelerated proximal-gradient method (FISTA). For non-accelerated local methods, the best known worst-case work scales, up to logarithmic factors, as the inverse of the product of the teleportation parameter alpha and the regularization parameter rho. A natural question is whether FISTA can improve the dependence on alpha from inverse-linear to inverse-square-root while preserving the inverse-linear dependence on rho. The challenge is that acceleration can break locality by transiently activating nodes that are zero at optimality, thereby increasing the cost of gradient evaluations. We analyze FISTA on a slightly over-regularized objective and show that, under a checkable confinement condition, all spurious activations remain inside a boundary set B. This yields a bound consisting of an accelerated term that scales inversely with rho times the square root of alpha, up to a logarithmic factor in the ratio of alpha to epsilon, plus a boundary overhead that scales with the square root of the volume of B and inversely with rho and with alpha to the three-halves power. We provide graph-structural conditions that imply such confinement. Experiments on synthetic and real graphs show the resulting speedup and slowdown regimes under the degree-weighted work model."
